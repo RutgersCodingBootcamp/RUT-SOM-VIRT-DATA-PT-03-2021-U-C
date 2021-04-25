@@ -65,7 +65,7 @@
 
 |Activities|Powerpoint|Video|Summary
 |---|---|---|---|
-[5.1 - Lesson Plan](01-Lesson-Plans/05-Matplotlib/1)|||
+[5.1 - Lesson Plan](01-Lesson-Plans/05-Matplotlib/1)|[5.1 - Powerpoint](https://docs.google.com/presentation/d/1pJMdqh6TjdRAiZzT0y8dgeUYSTwRMODxB6MLyvOxacI/edit?usp=sharing)||
 [5.2 - Lesson Plan](01-Lesson-Plans/05-Matplotlib/2)|||
 [5.3 - Lesson Plan](01-Lesson-Plans/05-Matplotlib/3)|||
 
