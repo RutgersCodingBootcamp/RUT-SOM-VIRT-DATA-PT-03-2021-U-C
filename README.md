@@ -55,9 +55,10 @@
 |---|---|---|---|
 [4.1 - Lesson Plan](01-Lesson-Plans/04-Pandas/1)|[4.1 - Powerpoint](https://docs.google.com/presentation/d/1lvscn_6UUbLiXSSC9atN_LfYPgMRhbA5zY9IVQrbRh8/edit#slide=id.g72f20fcbfa_0_0)|[4.1 - Video](https://zoom.us/rec/share/W3hTm59DukS92mZCQAopqhxHEqd94tpBudGb2jjpfm8dNpqfdum3i_y6v9qR5YeN.hbEDRUlnNXEy2pOB?startTime=1618868706000)|[4.1 - Summary](https://drive.google.com/file/d/1-9_r0VHok4Ne3e2LIj_tNQhhXi__mk4v/view?usp=sharing)
 [4.2 - Lesson Plan](01-Lesson-Plans/04-Pandas/2)|[4.2 - Powerpoint](https://docs.google.com/presentation/d/1K5vkFCx6ltt-5-D-h4bEDoN7Bh54Jw2R-UNzx833rLw/edit?usp=sharing)|[4.2 - Video](https://zoom.us/rec/share/vQk6E-sK7AmEYIsUzVlc7-CqDheB15hx942FWeDRpDSzc7EjWEe0p-c1OfFENZfb.whCo4yCUFyUy2mP-?startTime=1619044597000)|[4.2 - Summary](https://drive.google.com/file/d/1wmsP8RjdUK0lKP0YBLSQ_DsIuyhHD6hK/view?usp=sharing)
-[4.3 - Lesson Plan](01-Lesson-Plans/04-Pandas/3)|[4.3 - Powerpoint](https://docs.google.com/presentation/d/1HUUqYF9hrgPD8Gni7LB1_zh-Fszs1qhq0hsGeNJ4hqA/edit?usp=sharing)||
+[4.3 - Lesson Plan](01-Lesson-Plans/04-Pandas/3)|[4.3 - Powerpoint](https://docs.google.com/presentation/d/1HUUqYF9hrgPD8Gni7LB1_zh-Fszs1qhq0hsGeNJ4hqA/edit?usp=sharing)|[4.1 - Video](https://zoom.us/rec/share/4ovfF8QY89UrHf60h3xPKUbURQDfF5rnf44JgXyy9NQxfyfwMTfN_aWs4lh4GleR.TomZi_A4LOuBDtDL?startTime=1619272812000)|[4.2 - Summary](https://drive.google.com/file/d/1-XTXZhZgeW25K-KODk9ZIwJTv7wk1Vgv/view?usp=sharing)
 
 * [Video Guide](01-Lesson-Plans/04-Pandas/VideoGuide.md)
+* [Unit 4 Homework Review + Guide to Github](https://zoom.us/rec/share/4ovfF8QY89UrHf60h3xPKUbURQDfF5rnf44JgXyy9NQxfyfwMTfN_aWs4lh4GleR.TomZi_A4LOuBDtDL?startTime=1619285222000)
 
 - - -
 
