@@ -2,6 +2,17 @@
 
 It is vital that you have all resources ready **before** the start of class on the due date. We will give you plenty of time and opportunities for help before that date. We will not spend time class time on these resources.
 
+## Table of contents
+
+* [00-Prework](#00-Prework)
+* [01-Excel](#01-Excel)
+* [02-VBA Scripting](#02-VBA-Scripting)
+* [03-Python](#03-Python)
+* [04-Pandas](#04-Pandas)
+* [05-Matplotlib](#04-Pandas)
+* [06-Python API](#06-Python-API)
+
+
 ## 00-Prework: Due by 3/29/2021
 
 * Refer to [Prework Instructions](https://coding-bootcamp-dataviz-prework.readthedocs-hosted.com/en/latest/modules/module-2-machine-ready/)
