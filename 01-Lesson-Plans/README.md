@@ -4,14 +4,13 @@ It is vital that you have all resources ready **before** the start of class on t
 
 ## Table of contents
 
-* [00-Prework](#00-Prework)
-* [01-Excel](#01-Excel)
+* [00-Prework](#00-Prework-Due-by-3292021)
+* [01-Excel](#01-Excel-Due-by-3292021)
 * [02-VBA Scripting](#02-VBA-Scripting)
-* [03-Python](#03-Python)
-* [04-Pandas](#04-Pandas)
-* [05-Matplotlib](#04-Pandas)
-* [06-Python API](#06-Python-API)
-
+* [03-Python](#03-Python-Due-by-4122021)
+* [04-Pandas](#04-pandas-due-by-4192021)
+* [05-Matplotlib](#05-matplotlib)
+* [06-Python API](#06-python-apis-due-by-532021)
 
 ## 00-Prework: Due by 3/29/2021
 
