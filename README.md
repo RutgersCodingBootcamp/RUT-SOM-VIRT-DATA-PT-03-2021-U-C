@@ -66,8 +66,8 @@
 
 |Activities|Powerpoint|Video|Summary
 |---|---|---|---|
-[5.1 - Lesson Plan](01-Lesson-Plans/05-Matplotlib/1)|[5.1 - Powerpoint](https://docs.google.com/presentation/d/1pJMdqh6TjdRAiZzT0y8dgeUYSTwRMODxB6MLyvOxacI/edit?usp=sharing)||
-[5.2 - Lesson Plan](01-Lesson-Plans/05-Matplotlib/2)|||
+[5.1 - Lesson Plan](01-Lesson-Plans/05-Matplotlib/1)|[5.1 - Powerpoint](https://docs.google.com/presentation/d/1pJMdqh6TjdRAiZzT0y8dgeUYSTwRMODxB6MLyvOxacI/edit?usp=sharing)|[5.1 - Video](https://zoom.us/rec/share/_PhwEOXnnohzLRGmpFF3ir44OY8Q6ysHfxA32SXrwYAtJN4U_jUnRnlB2AFDVwGY.YnNBatLa-cu61N9P?startTime=1619473551000)|[5.1 - Summary](https://drive.google.com/file/d/1MMEInpLDFEJwBhsbMW1-zl1hbY8fXB7m/view?usp=sharing)
+[5.2 - Lesson Plan](01-Lesson-Plans/05-Matplotlib/2)|[5.2 - Powerpoint](https://docs.google.com/presentation/d/1AnKduNMApWUrEtakW6JQiNrZ7cZgUPeo0YqKgCjic8U/edit?usp=sharing)||
 [5.3 - Lesson Plan](01-Lesson-Plans/05-Matplotlib/3)|||
 
 * [Video Guide](01-Lesson-Plans/05-Matplotlib/VideoGuide.md)
