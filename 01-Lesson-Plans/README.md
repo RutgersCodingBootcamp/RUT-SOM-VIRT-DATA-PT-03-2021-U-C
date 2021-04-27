@@ -43,8 +43,7 @@ It is vital that you have all resources ready **before** the start of class on t
 
 * No additional requirements
 
-## 06-Python APIs
-
+## 06-Python APIs: Due by 5/3/2021
 
 * Obtain necessary API keys: [Click here for Instructions](https://docs.google.com/document/d/1_0jInSjZxLN2DzbEn8wL5rJwBvyUUlidEj_R9NylQwI/edit?usp=sharing)
   * OMDB API
@@ -54,10 +53,10 @@ It is vital that you have all resources ready **before** the start of class on t
   * Census API
 * Set Google Maps API capping queries: [Instructions Here](06-Python-APIs/Capping_Queries.md)
 * Activate your PythonData environment and execute each of the commands in your CLI:
-		`jupyter nbextension enable --py --sys-prefix widgetsnbextension`
-		`conda install -c conda-forge gmaps`
-		`jupyter nbextension enable --py --sys-prefix gmaps`
-		`pip install census`
+  * `jupyter nbextension enable --py --sys-prefix widgetsnbextension`
+  * `conda install -c conda-forge gmaps`
+  * `jupyter nbextension enable --py --sys-prefix gmaps`
+  * `pip install census`
 
 - - -
 
