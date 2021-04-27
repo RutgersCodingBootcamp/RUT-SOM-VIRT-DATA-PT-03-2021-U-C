@@ -39,6 +39,26 @@ It is vital that you have all resources ready **before** the start of class on t
   * Your installation is successful if you see "done" at the end of log.
 * PythonData environment: [instructions for creating PythonData](https://docs.google.com/document/d/1OkIbBFimJ6o8axcXAmI8BR1fXwCfXEOqrGtCukxof0s/edit#)
 
+## 05-Matplotlib
+
+* No additional requirements
+
+## 06-Python APIs
+
+
+* Obtain necessary API keys: [Click here for Instructions](https://docs.google.com/document/d/1_0jInSjZxLN2DzbEn8wL5rJwBvyUUlidEj_R9NylQwI/edit?usp=sharing)
+  * OMDB API
+  * New York Times API
+  * Open Weather Map API
+  * Google Maps API
+  * Census API
+* Set Google Maps API capping queries: [Instructions Here](06-Python-APIs/Capping_Queries.md)
+* Activate your PythonData environment and execute each of the commands in your CLI:
+		`jupyter nbextension enable --py --sys-prefix widgetsnbextension`
+		`conda install -c conda-forge gmaps`
+		`jupyter nbextension enable --py --sys-prefix gmaps`
+		`pip install census`
+
 - - -
 
 ### Copyright
