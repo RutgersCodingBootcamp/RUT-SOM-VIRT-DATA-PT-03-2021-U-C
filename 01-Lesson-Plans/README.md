@@ -63,6 +63,7 @@ It is vital that you have all resources ready **before** the start of class on t
   * Census API
 * Set Google Maps API capping queries: [Instructions Here](06-Python-APIs/Capping_Queries.md)
 * Activate your PythonData environment and execute each of the commands in your CLI:
+  * `conda install -c conda-forge jupyter_contrib_nbextensions`
   * `jupyter nbextension enable --py --sys-prefix widgetsnbextension`
   * `conda install -c conda-forge gmaps`
   * `jupyter nbextension enable --py --sys-prefix gmaps`
