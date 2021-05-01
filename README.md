@@ -68,7 +68,7 @@
 |---|---|---|---|
 [5.1 - Lesson Plan](01-Lesson-Plans/05-Matplotlib/1)|[5.1 - Powerpoint](https://docs.google.com/presentation/d/1pJMdqh6TjdRAiZzT0y8dgeUYSTwRMODxB6MLyvOxacI/edit?usp=sharing)|[5.1 - Video](https://zoom.us/rec/share/_PhwEOXnnohzLRGmpFF3ir44OY8Q6ysHfxA32SXrwYAtJN4U_jUnRnlB2AFDVwGY.YnNBatLa-cu61N9P?startTime=1619473551000)|[5.1 - Summary](https://drive.google.com/file/d/1MMEInpLDFEJwBhsbMW1-zl1hbY8fXB7m/view?usp=sharing)
 [5.2 - Lesson Plan](01-Lesson-Plans/05-Matplotlib/2)|[5.2 - Powerpoint](https://docs.google.com/presentation/d/1AnKduNMApWUrEtakW6JQiNrZ7cZgUPeo0YqKgCjic8U/edit?usp=sharing)|[5.2 - Video](https://zoom.us/rec/share/sEqbDntkcDfgmqS4f_RWoEdeS1gx2YBrjR-oUqTwLsFfux9MqbGNyyXtyQn1bamH.sqBtthCjn2l_fFJA?startTime=1619649931000)|[5.2 - Summary](https://drive.google.com/file/d/1DcNIOJwLfsCiduyn5EavIi0EvfGfG3Pj/view?usp=sharing)
-[5.3 - Lesson Plan](01-Lesson-Plans/05-Matplotlib/3)|[5.3 - Powerpoint](https://docs.google.com/presentation/d/1pa6h261pEwK6EG0MpmlDpo6DCvAQnqUz1ep1uQEs_e4/edit?usp=sharing)||
+[5.3 - Lesson Plan](01-Lesson-Plans/05-Matplotlib/3)|[5.3 - Powerpoint](https://docs.google.com/presentation/d/1pa6h261pEwK6EG0MpmlDpo6DCvAQnqUz1ep1uQEs_e4/edit?usp=sharing)|[5.3 - Video](https://zoom.us/rec/share/DBa1jaIFwTPZft-wN-rlATKsrgV5oF6bzDzV34XexucTHAJKQioTFi-x1Lk_gGlU.nI22QSkhB-56ozKN?startTime=1619877734000)|[5.3 - Summary](https://drive.google.com/file/d/1k-cPq3BwJn72fop6E66pKY97jfxxwOSR/view?usp=sharing)
 
 * [Video Guide](01-Lesson-Plans/05-Matplotlib/VideoGuide.md)
 
@@ -76,9 +76,15 @@
 
 ### [Unit 6 - APIs](01-Lesson-Plans/06-Python-APIs)
 
-* [6.1 - Lesson Plan](01-Lesson-Plans/06-Python-APIs/1/LessonPlan.md)
-* [6.2 - Lesson Plan](01-Lesson-Plans/06-Python-APIs/2/LessonPlan.md)
-* [6.3 - Lesson Plan](01-Lesson-Plans/06-Python-APIs/3/LessonPlan.md)
+* [Resource Requirements](01-Lesson-Plans#06-python-apis-due-by-532021)
+
+
+
+|Activities|Powerpoint|Video|Summary
+|---|---|---|---|
+[6.1 - Lesson Plan](01-Lesson-Plans/06-Python-APIs/1/LessonPlan.md)|[6.1 - Powerpoint](https://docs.google.com/presentation/d/1k8c_LxO7rKmMOPkAZkmw0BqBk5UHZCPn-Y9qTgGXd0o/edit#slide=id.g71f26f521c_0_1)||
+[6.2 - Lesson Plan](01-Lesson-Plans/06-Python-APIs/2/LessonPlan.md)|||
+[6.3 - Lesson Plan](01-Lesson-Plans/06-Python-APIs/3/LessonPlan.md)|||
 
 * [Video Guide](01-Lesson-Plans/06-Python-APIs/VideoGuide.md)
 
