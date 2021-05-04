@@ -82,10 +82,11 @@
 
 |Activities|Powerpoint|Video|Summary
 |---|---|---|---|
-[6.1 - Lesson Plan](01-Lesson-Plans/06-Python-APIs/1/LessonPlan.md)|[6.1 - Powerpoint](https://docs.google.com/presentation/d/1k8c_LxO7rKmMOPkAZkmw0BqBk5UHZCPn-Y9qTgGXd0o/edit#slide=id.g71f26f521c_0_1)||
-[6.2 - Lesson Plan](01-Lesson-Plans/06-Python-APIs/2/LessonPlan.md)|||
+[6.1 - Lesson Plan](01-Lesson-Plans/06-Python-APIs/1/LessonPlan.md)|[6.1 - Powerpoint](https://docs.google.com/presentation/d/1k8c_LxO7rKmMOPkAZkmw0BqBk5UHZCPn-Y9qTgGXd0o/edit#slide=id.g71f26f521c_0_1)|[6.1 - Video](https://zoom.us/rec/share/38vLmPfDFGpk4rU5C79BdBsk9u3AFdwiP8LtmT5XScIz1l9XRb3niuL7Bm3npPLc.cveT4Cgv3jRJw4OT?startTime=1620078322000)|[6.1 - Summary](https://drive.google.com/file/d/19tpUrYb37-cVOF7oXibGqvyNeJ5y2AO5/view?usp=sharing)
+[6.2 - Lesson Plan](01-Lesson-Plans/06-Python-APIs/2/LessonPlan.md)|[6.2 - Powerpoint](https://docs.google.com/presentation/d/1oIKNTLRt06zkHrXrFyNGr9ICnl3-DrJhrgkEmINPTa4/edit?usp=sharing)|
 [6.3 - Lesson Plan](01-Lesson-Plans/06-Python-APIs/3/LessonPlan.md)|||
 
+* [Google Maps API signup](https://zoom.us/rec/share/38vLmPfDFGpk4rU5C79BdBsk9u3AFdwiP8LtmT5XScIz1l9XRb3niuL7Bm3npPLc.cveT4Cgv3jRJw4OT?startTime=1620092036000)
 * [Video Guide](01-Lesson-Plans/06-Python-APIs/VideoGuide.md)
 
 - - -
