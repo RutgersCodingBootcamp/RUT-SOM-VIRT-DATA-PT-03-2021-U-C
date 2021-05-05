@@ -11,3 +11,6 @@ This activity provides an opportunity to practice making two API calls in sequen
   * This data is stored as the first element of the response array.
 
 * Finally, print the number of countries of each lending type.
+
+
+Hint: Take a moment to see if you can navigate through the documentation to find the correct endpoint. After banging your head against the wall for an appropriate period of time, feel free to check out this page: [https://datahelpdesk.worldbank.org/knowledgebase/articles/898614-aggregate-api-queries](https://datahelpdesk.worldbank.org/knowledgebase/articles/898614-aggregate-api-queries)
