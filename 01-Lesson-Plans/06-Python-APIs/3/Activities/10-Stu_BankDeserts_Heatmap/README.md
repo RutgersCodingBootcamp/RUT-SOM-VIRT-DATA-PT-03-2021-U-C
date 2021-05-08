@@ -4,7 +4,7 @@
 
 ## Instructions
 
-* Using [zip_bank_data.csv](Resources/zip_bank_data.csv) and your new knowledge of the US Census API, add a column for Poverty Rate to the csv.
+* Using [zip_bank_data.csv](Resources/zip_bank_data.csv) and  US census.csv data
 
 * Using `gmap` create the following three figures:
 
