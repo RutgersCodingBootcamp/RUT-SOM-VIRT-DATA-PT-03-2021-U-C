@@ -88,6 +88,7 @@
 
 * [Google Maps API signup](https://zoom.us/rec/share/38vLmPfDFGpk4rU5C79BdBsk9u3AFdwiP8LtmT5XScIz1l9XRb3niuL7Bm3npPLc.cveT4Cgv3jRJw4OT?startTime=1620092036000)
 * [Video Guide](01-Lesson-Plans/06-Python-APIs/VideoGuide.md)
+* [Mother's Day Review Session - API's](https://zoom.us/rec/share/gPdEldcksSt0moL4JemeH0FOZ9Fn6jpSUkPc0wFGx41PHaWxijOraQO1BVLcQcyM.Y7EOUPwm1xxH-knq?startTime=1620572628000)
 
 - - -
 
