@@ -82,9 +82,9 @@
 
 |Activities|Powerpoint|Video|Summary
 |---|---|---|---|
-[6.1 - Lesson Plan](01-Lesson-Plans/06-Python-APIs/1/LessonPlan.md)|[6.1 - Powerpoint](https://docs.google.com/presentation/d/1k8c_LxO7rKmMOPkAZkmw0BqBk5UHZCPn-Y9qTgGXd0o/edit#slide=id.g71f26f521c_0_1)|[6.1 - Video](https://zoom.us/rec/share/38vLmPfDFGpk4rU5C79BdBsk9u3AFdwiP8LtmT5XScIz1l9XRb3niuL7Bm3npPLc.cveT4Cgv3jRJw4OT?startTime=1620078322000)|[6.1 - Summary](https://drive.google.com/file/d/19tpUrYb37-cVOF7oXibGqvyNeJ5y2AO5/view?usp=sharing)
-[6.2 - Lesson Plan](01-Lesson-Plans/06-Python-APIs/2/LessonPlan.md)|[6.2 - Powerpoint](https://docs.google.com/presentation/d/1oIKNTLRt06zkHrXrFyNGr9ICnl3-DrJhrgkEmINPTa4/edit?usp=sharing)|[6.2 - Video](https://zoom.us/rec/share/f4usxN4uktIKSMVdhuABwPmGbFc0zF_sajp1OV6pAzRNi2ow-m7p5O1wBvEd7V_i.YZXKKyzu2V2mioOV?startTime=1620253823000)|[6.2 - Summary](https://drive.google.com/file/d/1i9PI6X77TYM-C-rSVn9qnMiGIJxqjInC/view?usp=sharing)
-[6.3 - Lesson Plan](01-Lesson-Plans/06-Python-APIs/3/LessonPlan.md)|[6.3 - Powerpoint](https://docs.google.com/presentation/d/1TSi886_pX1_naQAB89-vIr_fDIaNpJQN_2HFMNeJxic/edit?usp=sharing)|
+[6.1 - Lesson Plan](01-Lesson-Plans/06-Python-APIs/1)|[6.1 - Powerpoint](https://docs.google.com/presentation/d/1k8c_LxO7rKmMOPkAZkmw0BqBk5UHZCPn-Y9qTgGXd0o/edit#slide=id.g71f26f521c_0_1)|[6.1 - Video](https://zoom.us/rec/share/38vLmPfDFGpk4rU5C79BdBsk9u3AFdwiP8LtmT5XScIz1l9XRb3niuL7Bm3npPLc.cveT4Cgv3jRJw4OT?startTime=1620078322000)|[6.1 - Summary](https://drive.google.com/file/d/19tpUrYb37-cVOF7oXibGqvyNeJ5y2AO5/view?usp=sharing)
+[6.2 - Lesson Plan](01-Lesson-Plans/06-Python-APIs/2)|[6.2 - Powerpoint](https://docs.google.com/presentation/d/1oIKNTLRt06zkHrXrFyNGr9ICnl3-DrJhrgkEmINPTa4/edit?usp=sharing)|[6.2 - Video](https://zoom.us/rec/share/f4usxN4uktIKSMVdhuABwPmGbFc0zF_sajp1OV6pAzRNi2ow-m7p5O1wBvEd7V_i.YZXKKyzu2V2mioOV?startTime=1620253823000)|[6.2 - Summary](https://drive.google.com/file/d/1i9PI6X77TYM-C-rSVn9qnMiGIJxqjInC/view?usp=sharing)
+[6.3 - Lesson Plan](01-Lesson-Plans/06-Python-APIs/3)|[6.3 - Powerpoint](https://docs.google.com/presentation/d/1TSi886_pX1_naQAB89-vIr_fDIaNpJQN_2HFMNeJxic/edit?usp=sharing)|[6.3 - Video](https://zoom.us/rec/share/viD4t3Gci5ifBqjmGhRAKP5tFMcAKxkgast4yLVimkddsrB4PGe47zf9SXERS9Qe.5kQw9Ck2RXjlqh-P?startTime=1620482426000) [6 Homework](https://zoom.us/rec/share/viD4t3Gci5ifBqjmGhRAKP5tFMcAKxkgast4yLVimkddsrB4PGe47zf9SXERS9Qe.5kQw9Ck2RXjlqh-P?startTime=1620497748000)|[6.3 - Summary](https://drive.google.com/file/d/1JuZYBTe-ntBfJi3RwGFlj8vHgrELYknf/view?usp=sharing)
 
 * [Google Maps API signup](https://zoom.us/rec/share/38vLmPfDFGpk4rU5C79BdBsk9u3AFdwiP8LtmT5XScIz1l9XRb3niuL7Bm3npPLc.cveT4Cgv3jRJw4OT?startTime=1620092036000)
 * [Video Guide](01-Lesson-Plans/06-Python-APIs/VideoGuide.md)
@@ -92,10 +92,13 @@
 - - -
 
 ### [Unit 7 - Project 1 Week 1](01-Lesson-Plans/07-Project-1)
+|Activities|Powerpoint|Video|Summary
+|---|---|---|---|
+|[7.1 - Lesson Plan](01-Lesson-Plans/07-Project-1/1)|[7.1 - Powerpoint](https://docs.google.com/presentation/d/1mRDFqWhRCC6kxhzWoabFfe-wIbHfbQYmUXTcJ3AlODI/edit?usp=sharing)
+[7.2 - Lesson Plan](01-Lesson-Plans/07-Project-1/2)|||
+[7.3 - Lesson Plan](01-Lesson-Plans/07-Project-1/3)|||
 
-* [7.1 - Lesson Plan](01-Lesson-Plans/07-Project-1/1/LessonPlan.md)
-* [7.2 - Lesson Plan](01-Lesson-Plans/07-Project-1/2/LessonPlan.md)
-* [7.3 - Lesson Plan](01-Lesson-Plans/07-Project-1/3/LessonPlan.md)
+* [Project Guidelines](01-Lesson-Plans/07-Project-1/1/ProjectGuidelines)
 
 - - -
 
