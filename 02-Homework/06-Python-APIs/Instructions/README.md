@@ -42,8 +42,6 @@ Before we add our files to GitHub, let's add `api_keys.py` to the `.gitignore` f
 api_keys.py
 ```
 
-3. While the `.gitignore` file is open, add the `API_practice.ipynb` and `random_numbers.ipynb` files and save the file.
-
 4. In the command line, type `git status` and press Enter. The output should say the `.gitignore` file has been modified and the `WeatherPy.ipynb` file is untracked.
 
 5. Use `git add`, `git commit`, and `git push` to commit the modifications to `.gitignore` and the `WeatherPy.ipynb` file to GitHub.
