@@ -93,10 +93,10 @@
 - - -
 
 ### [Unit 7 - Project 1 Week 1](01-Lesson-Plans/07-Project-1)
-|Activities|Powerpoint|Video|Summary
-|---|---|---|---|
-|[7.1 - Lesson Plan](01-Lesson-Plans/07-Project-1/1)|[7.1 - Powerpoint](https://docs.google.com/presentation/d/1mRDFqWhRCC6kxhzWoabFfe-wIbHfbQYmUXTcJ3AlODI/edit?usp=sharing)
-[7.2 - Lesson Plan](01-Lesson-Plans/07-Project-1/2)|||
+|Activities|Powerpoint|Video
+|---|---|---|
+|[7.1 - Lesson Plan](01-Lesson-Plans/07-Project-1/1)|[7.1 - Powerpoint](https://docs.google.com/presentation/d/1mRDFqWhRCC6kxhzWoabFfe-wIbHfbQYmUXTcJ3AlODI/edit?usp=sharing)|[7.1 - Video](https://zoom.us/rec/share/fu32Bxia48PBdVX3r5xaTQKcgGJQVg0WFj9NvHuDJnaVXSR6PPDjAU-Ej81acIeY.MVfg4inYvX1KWhTi?startTime=1620685939000)
+[7.2 - Lesson Plan](01-Lesson-Plans/07-Project-1/2)|[7.2 - Powerpoint](https://docs.google.com/presentation/d/1E1BLzBzc56YO6N2PnRvsJLYuFPpMVvySufm-R9FiFXM/edit?usp=sharing)||
 [7.3 - Lesson Plan](01-Lesson-Plans/07-Project-1/3)|||
 
 * [Project Guidelines](01-Lesson-Plans/07-Project-1/1/ProjectGuidelines)
