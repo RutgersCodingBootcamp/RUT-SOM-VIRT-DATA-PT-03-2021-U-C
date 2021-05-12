@@ -1,6 +1,15 @@
 # Git Workflow for Projects
-
 - - -
+[Cheat Sheet found Here](https://docs.google.com/document/d/1GMaS7oJdBDRas_s_71dlxfDU5o5msns_GLpVHdoipCE/edit?usp=sharing)
+- - -
+
+## Table of Contents 
+
+* [Basic Rules](#Basic-Rules)
+* [Basic Workflow Commands](#Basic-Workflow-Commands)
+  * [Working Locally](#Working-Locally)
+  * [Working Remotely](#Working-Remotely)
+* [Merge Conflicts](#Merge-Conflicts)
 
 ## Basic Rules
 
