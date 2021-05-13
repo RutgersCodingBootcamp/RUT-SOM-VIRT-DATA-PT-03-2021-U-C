@@ -96,8 +96,8 @@
 |Activities|Powerpoint|Video
 |---|---|---|
 |[7.1 - Lesson Plan](01-Lesson-Plans/07-Project-1/1)|[7.1 - Powerpoint](https://docs.google.com/presentation/d/1mRDFqWhRCC6kxhzWoabFfe-wIbHfbQYmUXTcJ3AlODI/edit?usp=sharing)|[7.1 - Video](https://zoom.us/rec/share/fu32Bxia48PBdVX3r5xaTQKcgGJQVg0WFj9NvHuDJnaVXSR6PPDjAU-Ej81acIeY.MVfg4inYvX1KWhTi?startTime=1620685939000)
-[7.2 - Lesson Plan](01-Lesson-Plans/07-Project-1/2)|[7.2 - Powerpoint](https://docs.google.com/presentation/d/1E1BLzBzc56YO6N2PnRvsJLYuFPpMVvySufm-R9FiFXM/edit?usp=sharing)||
-[7.3 - Lesson Plan](01-Lesson-Plans/07-Project-1/3)|||
+[7.2 - Lesson Plan](01-Lesson-Plans/07-Project-1/2)|[7.2 - Powerpoint](https://docs.google.com/presentation/d/1E1BLzBzc56YO6N2PnRvsJLYuFPpMVvySufm-R9FiFXM/edit?usp=sharing)|[7.2 - Video](https://zoom.us/rec/share/3vRc5sJAzLS0jMKTpP4Dj8m1h9Ahg4LrWYsFXvDOjv2YnVM14U1JdsrUaoIgor5H.s_1MyaERikwRN-Na?startTime=1620859638000)|
+[7.3 - Lesson Plan](01-Lesson-Plans/07-Project-1/3)|[7.3 - Powerpoint](https://docs.google.com/presentation/d/1RXOJcnkFXZwOBi6R5RU0EDt9NmP9bwEv1JqEhW7tezU/edit?usp=sharing)||
 
 * [Project Guidelines](01-Lesson-Plans/07-Project-1/1/ProjectGuidelines)
 
