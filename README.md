@@ -104,9 +104,9 @@
 - - -
 
 ### [Unit 8 - Project 1 Week 2](Video/08-Project-1)
-|Activities|Powerpoint|Video
-|---|---|---|
-|||(https://zoom.us/rec/share/Hq4EwK7VxcPLcxR3GqUHf2PvJMsGhqkK5enp9h6Umg9h2MbsxVdCcGYQbpm1wKNB.QwMyrzS4vbkhLdhn?startTime=1621464566000)|
+|Video
+|---|
+|[8.1 - Video](https://zoom.us/rec/share/Hq4EwK7VxcPLcxR3GqUHf2PvJMsGhqkK5enp9h6Umg9h2MbsxVdCcGYQbpm1wKNB.QwMyrzS4vbkhLdhn?startTime=1621464566000)|
 - - -
 
 ### [Unit 9 - Relational Databases and Data Storage (SQL, ACID, etc.)](01-Lesson-Plans/09-SQL)
