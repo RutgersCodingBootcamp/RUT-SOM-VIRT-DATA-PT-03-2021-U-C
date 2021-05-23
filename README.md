@@ -107,6 +107,7 @@
 |Video
 |---|
 |[8.1 - Video](https://zoom.us/rec/share/Hq4EwK7VxcPLcxR3GqUHf2PvJMsGhqkK5enp9h6Umg9h2MbsxVdCcGYQbpm1wKNB.QwMyrzS4vbkhLdhn?startTime=1621464566000)|
+|[8.3 - Project Presentations](https://zoom.us/rec/share/qzRZ60Cl8vYv8d4bC-Yq8Cx0d-8CtD82wzD5dXE0Z-_1x5i6x2NHXXF1mqgEAuNX.8BkPzgqWhpK-rrvE?startTime=1621692458000)|
 - - -
 
 ### [Unit 9 - Relational Databases and Data Storage (SQL, ACID, etc.)](01-Lesson-Plans/09-SQL)
