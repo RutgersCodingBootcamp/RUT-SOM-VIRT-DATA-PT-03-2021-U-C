@@ -111,10 +111,11 @@
 - - -
 
 ### [Unit 9 - Relational Databases and Data Storage (SQL, ACID, etc.)](01-Lesson-Plans/09-SQL)
-
-* [9.1 - Lesson Plan](01-Lesson-Plans/09-SQL/1/LessonPlan.md)
-* [9.2 - Lesson Plan](01-Lesson-Plans/09-SQL/2/LessonPlan.md)
-* [9.3 - Lesson Plan](01-Lesson-Plans/09-SQL/3/LessonPlan.md)
+|Activities|Powerpoint|Video
+|---|---|---|
+|[9.1 - Lesson Plan](01-Lesson-Plans/09-SQL/1/LessonPlan.md)|[9.1 - Powerpoint]|[9.1 - Video]
+[9.2 - Lesson Plan](01-Lesson-Plans/09-SQL/2/LessonPlan.md)|[9.2 - Powerpoint]|[9.2 - Video]
+[9.3 - Lesson Plan](01-Lesson-Plans/09-SQL/3/LessonPlan.md)|[9.3 - Powerpoint]|[9.3 - Video]
 
 - - -
 
