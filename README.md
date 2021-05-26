@@ -114,8 +114,7 @@
 |Activities|Powerpoint|Video|Summary
 |---|---|---|---|
 |[9.1 - Lesson Plan](01-Lesson-Plans/09-SQL/1/LessonPlan.md)|[9.1 - Powerpoint](https://docs.google.com/presentation/d/1i8bwYBZ_IR8lVmntmevU_2ICDkeBFpsRjHoCH4U7Jmw/edit?usp=sharing)|[9.1 - Video](https://zoom.us/rec/share/TtJeHumQQenM4_UHE31Ok-z-o3JZvjpJrBNUsvAp5zr4Xck03oHtPIMHngA-bPeH.JLoPKqEMlotx-KIt?startTime=1621895533000)|[9.1 - Summary](https://drive.google.com/file/d/1jF4bQeCmoOCydB4iZtZPS5K3-2Ob32IZ/view?usp=sharing)
-[9.2 - Lesson Plan](01-Lesson-Plans/09-SQL/2/LessonPlan.md)|[9.2 - Powerpoint](https://docs.google.com/presentation/d/1ANGkE2KpR-tg967qqqeBRGlVXk6v-F99xLxqtRFsyjg/edit?usp=sharing)|[9.2 - Video]|[9.2 - Summary](9.1 Introduction to SQL https://docs.google.com/document/d/1kl5MEIEnQMc7eYW1YRezyGKVh3R2m40E/edit
-9.2 Advanced SQL Queries https://docs.google.com/document/d/1NZv24VHPY8qERiMTSyqw5CcJezQP65JY/edit)
+[9.2 - Lesson Plan](01-Lesson-Plans/09-SQL/2/LessonPlan.md)|[9.2 - Powerpoint](https://docs.google.com/presentation/d/1ANGkE2KpR-tg967qqqeBRGlVXk6v-F99xLxqtRFsyjg/edit?usp=sharing)|[9.2 - Video]|[9.2 - Summary](https://docs.google.com/document/d/1NZv24VHPY8qERiMTSyqw5CcJezQP65JY/edit)
 [9.3 - Lesson Plan](01-Lesson-Plans/09-SQL/3/LessonPlan.md)|[9.3 - Powerpoint]|[9.3 - Video]|[9.3 - Summary]
 
 - - -
