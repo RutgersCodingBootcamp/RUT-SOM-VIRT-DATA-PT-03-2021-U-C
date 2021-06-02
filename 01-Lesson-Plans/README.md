@@ -68,7 +68,15 @@ It is vital that you have all resources ready **before** the start of class on t
   * `conda install -c conda-forge gmaps`
   * `jupyter nbextension enable --py --sys-prefix gmaps`
   * `pip install census`
+ 
+## 10-Advanced-Data-Storage-and-Retrieval: Due by 6/5/2021
 
+* Activate your PythonData environment and execute each of the commands in your CLI:
+  * `conda install -c anaconda sqlalchemy`
+  * `conda install -c anaconda sqlite`
+  * `conda install -c conda-forge psycopg2`
+  * `conda install -c anaconda flask`
+  
 - - -
 
 ### Copyright
