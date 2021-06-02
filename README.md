@@ -120,6 +120,7 @@
 - - -
 
 ### [Unit 10 - Advanced Data Storage and Retrieval](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval)
+* [Resource Requirements](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/blob/master/01-Lesson-Plans/README.md#10-advanced-data-storage-and-retrieval-due-by-652021)
 
 * [10.1 - Lesson Plan](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/1/LessonPlan.md)
 * [10.2 - Lesson Plan](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/2/LessonPlan.md)
