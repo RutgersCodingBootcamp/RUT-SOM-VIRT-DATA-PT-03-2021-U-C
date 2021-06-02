@@ -1,0 +1,14 @@
+-- Use the following starter code to begin creating a conceptual ERD --
+
+Trainers
+-
+-- Input attributes here --
+
+Members
+-
+-- Input attributes here --
+
+
+Gym
+-
+-- Input attributes here --
