@@ -122,9 +122,11 @@
 ### [Unit 10 - Advanced Data Storage and Retrieval](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval)
 * [Resource Requirements](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/blob/master/01-Lesson-Plans/README.md#10-advanced-data-storage-and-retrieval-due-by-652021)
 
-* [10.1 - Lesson Plan](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/1/LessonPlan.md)
-* [10.2 - Lesson Plan](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/2/LessonPlan.md)
-* [10.3 - Lesson Plan](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/3/LessonPlan.md)
+|Activities|Powerpoint|Video|Summary
+|---|---|---|---|
+|[10.1 - Lesson Plan](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/1/LessonPlan.md)|[10.1 - Powerpoint]|[10.1 - Video]|[10.1 - Summary](https://docs.google.com/document/d/1YoqJNNNQJ_NtL1IAJM2M9vJbXmeegmGi/edit)|
+|[10.2 - Lesson Plan](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/2/LessonPlan.md)|[10.2 - Powerpoint]|[10.2 - Video]|[10.2 - Summary]|
+|[10.3 - Lesson Plan](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/3/LessonPlan.md)|[10.3 - Powerpoint]|[10.3 - Video]|[10.3 - Summary]|
 
 - - -
 
