@@ -1,0 +1,31 @@
+Gym
+-
+Gym_ID INTEGER PK
+Gym_Name VARCHAR
+Address VARCHAR
+City VARCHAR
+Zipcode VARCHAR
+
+Trainers
+-
+Trainer_ID INTEGER PK
+Gym_ID INTEGER FK >- Gym.Gym_ID
+First_Name VARCHAR
+Last_Name VARCHAR
+
+Members
+-
+Member_ID INTEGER PK
+Gym_ID INTEGER FK >- Gym.Gym_ID
+Trainer_ID INTEGER FK >- Trainers.Trainer_ID
+First_Name VARCHAR
+Last_Name VARCHAR
+Address VARCHAR
+CITY VARCHAR
+
+Payments
+-
+Payment_ID INTEGER PK
+Member_ID INTEGER FK - Members.Member_ID
+CreditCard_Info INTEGER
+Billing_Zip INTEGER

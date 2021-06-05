@@ -103,23 +103,30 @@
 
 - - -
 
-### [Unit 8 - Project 1 Week 2](01-Lesson-Plans/08-Project-1)
-
+### [Unit 8 - Project 1 Week 2](Video/08-Project-1)
+|Video
+|---|
+|[8.1 - Video](https://zoom.us/rec/share/Hq4EwK7VxcPLcxR3GqUHf2PvJMsGhqkK5enp9h6Umg9h2MbsxVdCcGYQbpm1wKNB.QwMyrzS4vbkhLdhn?startTime=1621464566000)|
+|[8.3 - Project Presentations](https://zoom.us/rec/share/qzRZ60Cl8vYv8d4bC-Yq8Cx0d-8CtD82wzD5dXE0Z-_1x5i6x2NHXXF1mqgEAuNX.8BkPzgqWhpK-rrvE?startTime=1621692458000)|
 - - -
 
 ### [Unit 9 - Relational Databases and Data Storage (SQL, ACID, etc.)](01-Lesson-Plans/09-SQL)
-
-* [9.1 - Lesson Plan](01-Lesson-Plans/09-SQL/1/LessonPlan.md)
-* [9.2 - Lesson Plan](01-Lesson-Plans/09-SQL/2/LessonPlan.md)
-* [9.3 - Lesson Plan](01-Lesson-Plans/09-SQL/3/LessonPlan.md)
+|Activities|Powerpoint|Video|Summary
+|---|---|---|---|
+|[9.1 - Lesson Plan](01-Lesson-Plans/09-SQL/1/LessonPlan.md)|[9.1 - Powerpoint](https://docs.google.com/presentation/d/1i8bwYBZ_IR8lVmntmevU_2ICDkeBFpsRjHoCH4U7Jmw/edit?usp=sharing)|[9.1 - Video](https://zoom.us/rec/share/TtJeHumQQenM4_UHE31Ok-z-o3JZvjpJrBNUsvAp5zr4Xck03oHtPIMHngA-bPeH.JLoPKqEMlotx-KIt?startTime=1621895533000)|[9.1 - Summary](https://drive.google.com/file/d/1jF4bQeCmoOCydB4iZtZPS5K3-2Ob32IZ/view?usp=sharing)
+[9.2 - Lesson Plan](01-Lesson-Plans/09-SQL/2/LessonPlan.md)|[9.2 - Powerpoint](https://docs.google.com/presentation/d/1ANGkE2KpR-tg967qqqeBRGlVXk6v-F99xLxqtRFsyjg/edit?usp=sharing)|[9.2 - Video](https://zoom.us/rec/share/KVKiWadTkLOjaRyhXymFsP-M-DkUCMAcx8zuDdCHFWSt4e8822irI3PWA93fs0cO.t3h8LOc88hsk5pCn?startTime=1622068256000)|[9.2 - Summary](https://docs.google.com/document/d/1NZv24VHPY8qERiMTSyqw5CcJezQP65JY/edit)
+[9.3 - Lesson Plan](01-Lesson-Plans/09-SQL/3/LessonPlan.md)|[9.3 - Powerpoint](https://docs.google.com/presentation/d/13RXPhJx6R1O2NfvYjAE7799ORn2nIu3QxT_1fMBHSrw/edit?usp=sharing)|[9.3 - Video](https://zoom.us/rec/share/Qchxdnzl1my0Xao6DA5Adeqi1FAiqAeXfPJypGRJT-ot7k5XHKTwz6GF1pNIdzwm.zzrKn-X5ZyCMzhP7?startTime=1622673033000)|[9.3 - Summary](https://docs.google.com/document/d/1BeE-4LXkQ9NEwCeccd2ZW1wMDp-IJfXc/edit)
 
 - - -
 
 ### [Unit 10 - Advanced Data Storage and Retrieval](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval)
+* [Resource Requirements](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/blob/master/01-Lesson-Plans/README.md#10-advanced-data-storage-and-retrieval-due-by-652021)
 
-* [10.1 - Lesson Plan](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/1/LessonPlan.md)
-* [10.2 - Lesson Plan](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/2/LessonPlan.md)
-* [10.3 - Lesson Plan](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/3/LessonPlan.md)
+|Activities|Powerpoint|Video|Summary
+|---|---|---|---|
+|[10.1 - Lesson Plan](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/1/LessonPlan.md)|[10.1 - Powerpoint](https://docs.google.com/presentation/d/14Ntsgjt_B62S7GaGOw8wSH1Mdqi1Zq-kd5qap3QFfvc/edit?usp=sharing)|[10.1 - Video]|[10.1 - Summary](https://docs.google.com/document/d/1YoqJNNNQJ_NtL1IAJM2M9vJbXmeegmGi/edit)|
+|[10.2 - Lesson Plan](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/2/LessonPlan.md)|[10.2 - Powerpoint]|[10.2 - Video]|[10.2 - Summary](https://docs.google.com/document/d/18NFUGHEOBazC_8-ax-6dQ4YzKtrhKbUn/edit)|
+|[10.3 - Lesson Plan](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/3/LessonPlan.md)|[10.3 - Powerpoint]|[10.3 - Video]|[10.3 - Summary](https://docs.google.com/document/d/11PKBKAq2dXbvZb-AZR35y5E-MuVY5dP2/edit)|
 
 - - -
 
