@@ -124,7 +124,7 @@
 
 |Activities|Powerpoint|Video|Summary
 |---|---|---|---|
-|[10.1 - Lesson Plan](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/1/LessonPlan.md)|[10.1 - Powerpoint](https://docs.google.com/presentation/d/14Ntsgjt_B62S7GaGOw8wSH1Mdqi1Zq-kd5qap3QFfvc/edit?usp=sharing)|[10.1 - Video]|[10.1 - Summary](https://docs.google.com/document/d/1YoqJNNNQJ_NtL1IAJM2M9vJbXmeegmGi/edit)|
+|[10.1 - Lesson Plan](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/1/LessonPlan.md)|[10.1 - Powerpoint](https://docs.google.com/presentation/d/14Ntsgjt_B62S7GaGOw8wSH1Mdqi1Zq-kd5qap3QFfvc/edit?usp=sharing)|[10.1 - Video](https://zoom.us/rec/share/UI6E65KIhjSHImaNbwSuuuQ302dqXh9rTdUZKWS-sUMwXSk8G5aw80W__nHMVefH.SUmajHC489hvCpHS?startTime=1622901738000)|[10.1 - Summary](https://docs.google.com/document/d/1YoqJNNNQJ_NtL1IAJM2M9vJbXmeegmGi/edit)|
 |[10.2 - Lesson Plan](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/2/LessonPlan.md)|[10.2 - Powerpoint]|[10.2 - Video]|[10.2 - Summary](https://docs.google.com/document/d/18NFUGHEOBazC_8-ax-6dQ4YzKtrhKbUn/edit)|
 |[10.3 - Lesson Plan](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/3/LessonPlan.md)|[10.3 - Powerpoint]|[10.3 - Video]|[10.3 - Summary](https://docs.google.com/document/d/11PKBKAq2dXbvZb-AZR35y5E-MuVY5dP2/edit)|
 
