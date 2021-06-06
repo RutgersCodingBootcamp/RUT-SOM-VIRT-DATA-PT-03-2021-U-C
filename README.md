@@ -113,9 +113,9 @@
 ### [Unit 9 - Relational Databases and Data Storage (SQL, ACID, etc.)](01-Lesson-Plans/09-SQL)
 |Activities|Powerpoint|Video|Summary
 |---|---|---|---|
-|[9.1 - Lesson Plan](01-Lesson-Plans/09-SQL/1/LessonPlan.md)|[9.1 - Powerpoint](https://docs.google.com/presentation/d/1i8bwYBZ_IR8lVmntmevU_2ICDkeBFpsRjHoCH4U7Jmw/edit?usp=sharing)|[9.1 - Video](https://zoom.us/rec/share/TtJeHumQQenM4_UHE31Ok-z-o3JZvjpJrBNUsvAp5zr4Xck03oHtPIMHngA-bPeH.JLoPKqEMlotx-KIt?startTime=1621895533000)|[9.1 - Summary](https://drive.google.com/file/d/1jF4bQeCmoOCydB4iZtZPS5K3-2Ob32IZ/view?usp=sharing)
-[9.2 - Lesson Plan](01-Lesson-Plans/09-SQL/2/LessonPlan.md)|[9.2 - Powerpoint](https://docs.google.com/presentation/d/1ANGkE2KpR-tg967qqqeBRGlVXk6v-F99xLxqtRFsyjg/edit?usp=sharing)|[9.2 - Video](https://zoom.us/rec/share/KVKiWadTkLOjaRyhXymFsP-M-DkUCMAcx8zuDdCHFWSt4e8822irI3PWA93fs0cO.t3h8LOc88hsk5pCn?startTime=1622068256000)|[9.2 - Summary](https://docs.google.com/document/d/1NZv24VHPY8qERiMTSyqw5CcJezQP65JY/edit)
-[9.3 - Lesson Plan](01-Lesson-Plans/09-SQL/3/LessonPlan.md)|[9.3 - Powerpoint](https://docs.google.com/presentation/d/13RXPhJx6R1O2NfvYjAE7799ORn2nIu3QxT_1fMBHSrw/edit?usp=sharing)|[9.3 - Video](https://zoom.us/rec/share/Qchxdnzl1my0Xao6DA5Adeqi1FAiqAeXfPJypGRJT-ot7k5XHKTwz6GF1pNIdzwm.zzrKn-X5ZyCMzhP7?startTime=1622673033000)|[9.3 - Summary](https://docs.google.com/document/d/1BeE-4LXkQ9NEwCeccd2ZW1wMDp-IJfXc/edit)
+|[9.1 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/09-SQL/1)|[9.1 - Powerpoint](https://docs.google.com/presentation/d/1i8bwYBZ_IR8lVmntmevU_2ICDkeBFpsRjHoCH4U7Jmw/edit?usp=sharing)|[9.1 - Video](https://zoom.us/rec/share/TtJeHumQQenM4_UHE31Ok-z-o3JZvjpJrBNUsvAp5zr4Xck03oHtPIMHngA-bPeH.JLoPKqEMlotx-KIt?startTime=1621895533000)|[9.1 - Summary](https://drive.google.com/file/d/1jF4bQeCmoOCydB4iZtZPS5K3-2Ob32IZ/view?usp=sharing)
+[9.2 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/09-SQL/2)|[9.2 - Powerpoint](https://docs.google.com/presentation/d/1ANGkE2KpR-tg967qqqeBRGlVXk6v-F99xLxqtRFsyjg/edit?usp=sharing)|[9.2 - Video](https://zoom.us/rec/share/KVKiWadTkLOjaRyhXymFsP-M-DkUCMAcx8zuDdCHFWSt4e8822irI3PWA93fs0cO.t3h8LOc88hsk5pCn?startTime=1622068256000)|[9.2 - Summary](https://docs.google.com/document/d/1NZv24VHPY8qERiMTSyqw5CcJezQP65JY/edit)
+[9.3 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/09-SQL/3)|[9.3 - Powerpoint](https://docs.google.com/presentation/d/13RXPhJx6R1O2NfvYjAE7799ORn2nIu3QxT_1fMBHSrw/edit?usp=sharing)|[9.3 - Video](https://zoom.us/rec/share/Qchxdnzl1my0Xao6DA5Adeqi1FAiqAeXfPJypGRJT-ot7k5XHKTwz6GF1pNIdzwm.zzrKn-X5ZyCMzhP7?startTime=1622673033000)|[9.3 - Summary](https://docs.google.com/document/d/1BeE-4LXkQ9NEwCeccd2ZW1wMDp-IJfXc/edit)
 
 - - -
 
@@ -124,8 +124,8 @@
 
 |Activities|Powerpoint|Video|Summary
 |---|---|---|---|
-|[10.1 - Lesson Plan](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/1/LessonPlan.md)|[10.1 - Powerpoint](https://docs.google.com/presentation/d/14Ntsgjt_B62S7GaGOw8wSH1Mdqi1Zq-kd5qap3QFfvc/edit?usp=sharing)|[10.1 - Video](https://zoom.us/rec/share/UI6E65KIhjSHImaNbwSuuuQ302dqXh9rTdUZKWS-sUMwXSk8G5aw80W__nHMVefH.SUmajHC489hvCpHS?startTime=1622901738000)|[10.1 - Summary](https://docs.google.com/document/d/1YoqJNNNQJ_NtL1IAJM2M9vJbXmeegmGi/edit)|
-|[10.2 - Lesson Plan](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/2/LessonPlan.md)|[10.2 - Powerpoint]|[10.2 - Video]|[10.2 - Summary](https://docs.google.com/document/d/18NFUGHEOBazC_8-ax-6dQ4YzKtrhKbUn/edit)|
+|[10.1 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/1)|[10.1 - Powerpoint](https://docs.google.com/presentation/d/14Ntsgjt_B62S7GaGOw8wSH1Mdqi1Zq-kd5qap3QFfvc/edit?usp=sharing)|[10.1 - Video](https://zoom.us/rec/share/UI6E65KIhjSHImaNbwSuuuQ302dqXh9rTdUZKWS-sUMwXSk8G5aw80W__nHMVefH.SUmajHC489hvCpHS?startTime=1622901738000)|[10.1 - Summary](https://docs.google.com/document/d/1YoqJNNNQJ_NtL1IAJM2M9vJbXmeegmGi/edit)|
+|[10.2 - Lesson Plan](0https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/2)|[10.2 - Powerpoint]|[10.2 - Video]|[10.2 - Summary](https://docs.google.com/document/d/18NFUGHEOBazC_8-ax-6dQ4YzKtrhKbUn/edit)|
 |[10.3 - Lesson Plan](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/3/LessonPlan.md)|[10.3 - Powerpoint]|[10.3 - Video]|[10.3 - Summary](https://docs.google.com/document/d/11PKBKAq2dXbvZb-AZR35y5E-MuVY5dP2/edit)|
 
 - - -
