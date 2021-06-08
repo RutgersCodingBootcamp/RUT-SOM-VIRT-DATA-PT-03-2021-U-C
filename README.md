@@ -128,6 +128,8 @@
 |[10.2 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/2)|[10.2 - Powerpoint](https://docs.google.com/presentation/d/1Z9qt1dLD8T3t37_HZtsnfnZWXDvx0TesQEyTcXi9Kg0/edit?usp=sharing)|[10.2 - Video]|[10.2 - Summary](https://docs.google.com/document/d/18NFUGHEOBazC_8-ax-6dQ4YzKtrhKbUn/edit)|
 |[10.3 - Lesson Plan](01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/3/LessonPlan.md)|[10.3 - Powerpoint]|[10.3 - Video]|[10.3 - Summary](https://docs.google.com/document/d/11PKBKAq2dXbvZb-AZR35y5E-MuVY5dP2/edit)|
 
+* [Additional Resources](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/blob/master/01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/StudentGuide.md#helpful-links)
+
 - - -
 
 ### [Unit 11 - Web Development and Technologies (HTML, CSS, GH Pages deployment, Bootstrap)](01-Lesson-Plans/11-Web)
