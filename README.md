@@ -133,11 +133,12 @@
 - - -
 
 ### [Unit 11 - Web Development and Technologies (HTML, CSS, GH Pages deployment, Bootstrap)](01-Lesson-Plans/11-Web)
+|Activities|Powerpoint|Video|Summary
+|---|---|---|---|
+|[11.1 - Lesson Plan](01-Lesson-Plans/11-Web/1/LessonPlan.md)|[11.1 - Powerpoint]|[11.1 - Video]|11.1 - Summary]|
+|[11.2 - Lesson Plan](01-Lesson-Plans/11-Web/2/LessonPlan.md)|[11.2 - Powerpoint]|11.2 - Summary]|11.2 - Summary]|
 
-* [11.1 - Lesson Plan](01-Lesson-Plans/11-Web/1/LessonPlan.md)
-* [11.2 - Lesson Plan](01-Lesson-Plans/11-Web/2/LessonPlan.md)
-* [11.3 - Lesson Plan](01-Lesson-Plans/11-Web/3/LessonPlan.md)
-
+* [Additional Resources]
 - - -
 
 ### [Unit 12 - Web Scraping and Document Databases](01-Lesson-Plans/12-Web-Scraping-and-Document-Databases)
