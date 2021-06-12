@@ -135,7 +135,7 @@
 ### [Unit 11 - Web Development and Technologies (HTML, CSS, GH Pages deployment, Bootstrap)](01-Lesson-Plans/11-Web)
 |Activities|Powerpoint|Video|Summary
 |---|---|---|---|
-|[11.1 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/11-Web/1)|[11.1 - Powerpoint](https://docs.google.com/document/d/1jF4bQeCmoOCydB4iZtZPS5K3-2Ob32IZ/edit)|11.1 - Video|[11.1 - Summary](https://docs.google.com/document/d/1Wg2l7aLwEnwt05QVFHJiewVr9VgKC9vf/edit)|
+|[11.1 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/11-Web/1)|[11.1 - Powerpoint](https://docs.google.com/presentation/d/1b02WJMeiYzei36wMM9p5qE_B9d9Yt7delDgMKiAjulE/edit#slide=id.g8aea8b50d5_0_0)|11.1 - Video|[11.1 - Summary](https://docs.google.com/document/d/1Wg2l7aLwEnwt05QVFHJiewVr9VgKC9vf/edit)|
 |11.2 - Lesson Plan|11.2 - Powerpoint|11.2 - Video|11.2 - Summary|
 
 * [Additional Resources]
