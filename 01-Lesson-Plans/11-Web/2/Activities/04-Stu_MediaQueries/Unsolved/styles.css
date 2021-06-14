@@ -1,0 +1,57 @@
+/* Giving the body the specified background color, adding font sizes for the h1 and h3 elements we'll be using */
+body {
+  background: #f1f1f1;
+}
+
+h1 {
+  font-size: 80px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+/* Giving our navbar some padding and a background color */
+.navbar {
+  padding: 10px;
+  background: #5191fd;
+}
+
+/* Making our navbar li's inline-block elements this makes it so we can have multiple on the same line. Floats could have been used too */
+.navbar li {
+  display: inline-block;
+  padding: 20px;
+  margin-right: 10px;
+  margin-left: 10px;
+  cursor: pointer;
+  background: #fff;
+  border-radius: 3px;
+}
+
+/* Getting rid of the default link styles here */
+.navbar li a {
+  color: #000;
+  text-decoration: none;
+}
+
+/* Styling the header, giving it a height, a background color, and some top padding */
+.header {
+  height: 200px;
+  padding-top: 20px;
+  background: #cdcdcd;
+}
+
+/* Centering our h1 tag inside our header, giving it a little padding, removing its margin */
+.header h1 {
+  padding: 60px;
+  margin: 0;
+  color: #000;
+  text-align: center;
+}
+
+/* Giving the .post element margin on 3 sides */
+.post {
+  margin-top: 50px;
+  margin-right: 100px;
+  margin-left: 100px;
+}

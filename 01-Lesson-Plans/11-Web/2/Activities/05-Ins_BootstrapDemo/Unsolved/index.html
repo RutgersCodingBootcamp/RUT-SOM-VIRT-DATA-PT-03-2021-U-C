@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="UTF-8">
+  <title>Bootstrap Demo</title>
+
+  <!-- Bring in our bootstrap and style.css stylesheets -->
+  <!-- What order should they go in? -->
+
+</head>
+
+<body>
+
+  <!-- Our rows function in containers (grid created). -->
+    <!-- Our columns function in rows. -->
+      <!-- Columns have 12 areas of width to work with. -->
+      <!-- One third of MEDIUM AND ABOVE SIZE screen (4/12) -->
+      <!-- Columns float left, so all adjacent cols will appear next to each other (as long as not all space gets taken up) -->
+
+
+
+    <!-- Second Row -->
+    
+      <!-- First (and only column) -->
+
+
+    <!-- Third Row -->
+      <!-- Two equal columns -->
+
+
+    <!--Fourth Row-->
+
+      <!-- Two non equal columns-->
+
+      <!--Second of Two Columns-->
+
+
+    <!--Fifth Row-->
+
+      <!--First and Only half size column in this Row-->
+
+
+    <!--Sixth Row-->
+    <div class="row justify-content-end">
+      <!--First and Only half size Column in this Row-->
+      <!--Notice how horizontally aligned this column to the right-->
+      <div class="col-md-6">
+        <h1>We can also offset a column if we want. I'm a size 6 column, justified to the end of the row</h1>
+      </div>
+    </div> 
+
+    <!--Seventh Row-->
+    <div class="row">
+      <!--First and Only Column in this Row-->
+      <div class="col-md-12">
+        <h1>The important things to remember are these:</h1>
+        <h3>1. Columns go inside rows. <small>container &gt; row &gt; column</small></h3>
+        <h3>2. Only 12 columns or less per row.</h3>
+        <h3>3. Rows go inside containers.</h3>
+        <h3>4. Don't try and change the grid.</h3>
+      </div>
+    </div>
+
+    <!--Seventh Row-->
+    <div class="row">
+      <!--First Column in this Row-->
+      <div class="col-md-6">
+        <div class="box">
+          <h1>If you want to change an element inside the grid, then add CSS to the element inside the grid. Not the grid itself.</h1>
+        </div>
+      </div>
+
+      <!--Second Column in this Row-->
+      <div class="col-md-6">
+        <div class="box">
+          <h1>Adding CSS directly to the grid will probably break things elsewhere, as that isn't the intended usage.</h1>
+        </div>
+      </div>
+    </div>
+
+    <!--Eighth Row margin-top-80-->
+    <div class="row">
+      <div class="alert alert-primary" role="alert">
+        I am a component that doesn't have a column
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col">
+        <div class="alert alert-primary" role="alert">
+          I am a component that will take up a full column.
+        </div>
+    </div>
+
+    </div>
+
+    <!--Ninth Row-->
+    <div class="row">
+      <!--First and Only Column in this Row-->
+      <div class="col-md-12">
+        <h1>Using Bootstrap doesn't mean we're never writing CSS again.</h1>
+        <h1>But we can build websites much faster without having to write <strong><i>ALL</i></strong> of the CSS ourselves.</h1>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- MAKE SURE TO INCLUDE BOOTSTRAP JAVASCRIPT -->
+  
+</body>
+
+</html>
