@@ -76,7 +76,20 @@ It is vital that you have all resources ready **before** the start of class on t
   * `conda install -c anaconda sqlite`
   * `conda install -c conda-forge psycopg2`
   * `conda install -c anaconda flask`
+
+## 12-Web Scraping and Document Databases : Due by 6/16/2021
+* Install MongoDB
+  * MAC - https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/
+  * Windows - https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
   
+* Activate your PythonData environment and execute each of the commands in your CLI:
+ * pip install pymongo
+ * pip install Flask-PyMongo
+ * pip install bs4
+ * pip install lxml
+ * pip install webdriver_manager
+ * pip install splinter
+ * pip install html5lib
 - - -
 
 ### Copyright
