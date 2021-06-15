@@ -11,6 +11,8 @@ It is vital that you have all resources ready **before** the start of class on t
 * [04-Pandas](#04-pandas-due-by-4192021)
 * [05-Matplotlib](#05-matplotlib)
 * [06-Python API](#06-python-apis-due-by-532021)
+* [10-Advanced-Data-Storage-and-Retrieval](#10-Advanced-Data-Storage-and-Retrieval: Due by 6/5/2021)
+* [12-Web Scraping and Document Databases](#12-Web Scraping and Document Databases : Due by 6/16/2021)
 
 ## 00-Prework: Due by 3/29/2021
 
