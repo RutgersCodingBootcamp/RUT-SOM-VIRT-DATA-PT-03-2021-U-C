@@ -143,7 +143,7 @@
 - - -
 
 ### [Unit 12 - Web Scraping and Document Databases](01-Lesson-Plans/12-Web-Scraping-and-Document-Databases)
-*[Resource Requirements](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/blob/master/01-Lesson-Plans/README.md#12-web-scraping-and-document-databases--due-by-6162021)
+* [Resource Requirements](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/blob/master/01-Lesson-Plans/README.md#12-web-scraping-and-document-databases--due-by-6162021)
 
 |Activities|Powerpoint|Video|Summary
 |---|---|---|---|
