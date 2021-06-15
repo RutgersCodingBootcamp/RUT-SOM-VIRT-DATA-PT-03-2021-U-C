@@ -136,19 +136,22 @@
 |Activities|Powerpoint|Video|Summary
 |---|---|---|---|
 |[11.1 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/11-Web/1)|[11.1 - Powerpoint](https://docs.google.com/presentation/d/1b02WJMeiYzei36wMM9p5qE_B9d9Yt7delDgMKiAjulE/edit#slide=id.g8aea8b50d5_0_0)|[11.1 - Video](https://zoom.us/rec/share/5in026fFGsu9SPfsL35MKIm5u8cPcd8Xmdgn6M7RQk4dqDvs6jmJBQce2doGoHFv.1psGh3oGYoEAnOBT?startTime=1623506544000)|[11.1 - Summary](https://docs.google.com/document/d/1Wg2l7aLwEnwt05QVFHJiewVr9VgKC9vf/edit)|
-|[11.2 Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/11-Web/2)|[11.2 - Powerpoint](https://docs.google.com/presentation/d/1vZ0_q2XCgw6UfziKfZVr0rcBFqNtNKUNMeET4eJSslw/edit#slide=id.g8b486c8e50_0_0)|[11.2 - Video](https://zoom.us/rec/share/usCZLYN4umtyoO0GNKIUlB4UMGlLa1SWLbzu8oBW9or7uArDY6UGz8NrCJm11yMr.vrZQKh7UBZHYImrN?startTime=1623709905000)|[11.2 - Summary](https://docs.google.com/document/d/1eAo9VjNnN0M6fnzQQGAfyQULf-F0VUeg/edit)|
-|11.3- Lesson Plan|||[11.3 - Summary](https://docs.google.com/document/u/1/d/1Mc7xzZRRT_DA5G5O3RZd3hW8iRheIwql/edit?usp=drive_web&ouid=110482795098069878283&rtpof=true)|
+|[11.2 Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/11-Web/2)|[11.2 - Powerpoint](https://docs.google.com/presentation/d/1vZ0_q2XCgw6UfziKfZVr0rcBFqNtNKUNMeET4eJSslw/edit#slide=id.g8b486c8e50_0_0)|[11.2 - Video](https://zoom.us/rec/share/usCZLYN4umtyoO0GNKIUlB4UMGlLa1SWLbzu8oBW9or7uArDY6UGz8NrCJm11yMr.vrZQKh7UBZHYImrN?startTime=1623709905000)|[11.2 - Summary](https://docs.google.com/document/d/1eAo9VjNnN0M6fnzQQGAfyQULf-F0VUeg/edit)||
 
 
 * [Helpful Links](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/blob/master/01-Lesson-Plans/11-Web/StudentGuide.md#helpful-links)
 - - -
 
 ### [Unit 12 - Web Scraping and Document Databases](01-Lesson-Plans/12-Web-Scraping-and-Document-Databases)
+*[Resource Requirements](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/blob/master/01-Lesson-Plans/README.md#12-web-scraping-and-document-databases--due-by-6162021)
 
-* [12.1 - Lesson Plan](01-Lesson-Plans/12-Web-Scraping-and-Document-Databases/1/LessonPlan.md)
-* [12.2 - Lesson Plan](01-Lesson-Plans/12-Web-Scraping-and-Document-Databases/2/LessonPlan.md)
-* [12.3 - Lesson Plan](01-Lesson-Plans/12-Web-Scraping-and-Document-Databases/3/LessonPlan.md)
+|Activities|Powerpoint|Video|Summary
+|---|---|---|---|
+|12.1 - Lesson Plan](01-Lesson-Plans/12-Web-Scraping-and-Document-Databases/1/LessonPlan.md)|12.1 - Powerpoint|12.1 - Video|[12.1 - Summary](https://docs.google.com/document/u/1/d/1gmVqeyw-nu6iN_yXhqg2_ZoAmvpGa3w1/edit?usp=drive_web&ouid=110482795098069878283&rtpof=true)|
+|12.2 - Lesson Plan](01-Lesson-Plans/12-Web-Scraping-and-Document-Databases/2/LessonPlan.md)|12.2 - Powerpoint|12.2 - Video|[12.2 - Summary](https://docs.google.com/document/u/1/d/1yAA__60j6RcUyZmdcjpkF4blNE7SUbeE/edit?usp=drive_web&ouid=110482795098069878283&rtpof=true)|
+|12.3 - Lesson Plan](01-Lesson-Plans/12-Web-Scraping-and-Document-Databases/3/LessonPlan.md)|12.3 - Powerpoint|12.3 - Video|[12.3 - Summary](https://docs.google.com/document/u/1/d/1K8VuQckhc0UG5WG94yu_vRu0_mIFxL6v/edit?usp=drive_web&ouid=110482795098069878283&rtpof=true)|
 
+* Helpful Links
 - - -
 
 ### [Unit 13 - ETL Project Week](01-Lesson-Plans/13-ETL-Project)
