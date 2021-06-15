@@ -1,0 +1,33 @@
+h1 {
+  position: absolute;
+  top: 50%;
+
+  /* The distance from the left margin edge of the element to the left edge of
+  *  the window is 45% of the width of the window. The window is the initial
+  *  containing block, used here because there is no positioned ancestor. */
+  left: 45%;
+}
+
+h2 {
+  position: absolute;
+  top: 55%;
+  left: 46.5%;
+}
+
+h3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+h4 {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+
+h5 {
+  position: absolute;
+  top: 50%;
+  left: 0;
+}

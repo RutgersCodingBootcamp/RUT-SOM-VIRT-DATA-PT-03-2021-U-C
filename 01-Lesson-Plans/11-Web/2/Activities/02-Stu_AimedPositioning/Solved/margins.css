@@ -1,0 +1,18 @@
+h1 {
+  margin-top: 20%;
+  margin-left: 42%;
+}
+
+h2 {
+  margin-left: 43%;
+}
+
+/* Header 3 needs no styling but has to be moved to the first position in the HTML */
+
+/* Header 4 has to be moved to the last position in the HTML */
+h4 {
+  margin-top: 20%;
+  margin-left: 90%;
+}
+
+/* Header 5 needs no styling, but has to be the third element in the HTML. It cannot be placed at the true center of the page due to Header 1 occupying that space; you would have to make it so Header 1 is "inline" */
