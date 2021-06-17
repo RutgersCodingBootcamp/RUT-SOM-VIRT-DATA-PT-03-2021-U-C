@@ -147,9 +147,9 @@
 
 |Activities|Powerpoint|Video|Summary
 |---|---|---|---|
-|[12.1 - Lesson Plan](01-Lesson-Plans/12-Web-Scraping-and-Document-Databases/1/LessonPlan.md)|[12.1 - Powerpoint](https://docs.google.com/presentation/d/1sqYIajCUWAUn-zWlo1Bc24vCk9jYIPMofysq8b55hTo/edit#slide=id.g8c49f94aaf_0_0)|[12.1 - Video](https://zoom.us/rec/share/pKtKOaQ9Fazw3-ZnbCBNYDro6j13UDE4a25pDEfm1mvbbwZiki6Fpi_f79xPJAHG.RkPRc0w7dnioHzzI?startTime=1623883150000)|[12.1 - Summary](https://docs.google.com/document/u/1/d/1gmVqeyw-nu6iN_yXhqg2_ZoAmvpGa3w1/edit?usp=drive_web&ouid=110482795098069878283&rtpof=true)|
-|[12.2 - Lesson Plan](01-Lesson-Plans/12-Web-Scraping-and-Document-Databases/2/LessonPlan.md)|12.2 - Powerpoint|12.2 - Video|[12.2 - Summary](https://docs.google.com/document/u/1/d/1yAA__60j6RcUyZmdcjpkF4blNE7SUbeE/edit?usp=drive_web&ouid=110482795098069878283&rtpof=true)|
-|[12.3 - Lesson Plan](01-Lesson-Plans/12-Web-Scraping-and-Document-Databases/3/LessonPlan.md)|12.3 - Powerpoint|12.3 - Video|[12.3 - Summary](https://docs.google.com/document/u/1/d/1K8VuQckhc0UG5WG94yu_vRu0_mIFxL6v/edit?usp=drive_web&ouid=110482795098069878283&rtpof=true)|
+|[12.1 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/12-Web-Scraping-and-Document-Databases/1)|[12.1 - Powerpoint](https://docs.google.com/presentation/d/1sqYIajCUWAUn-zWlo1Bc24vCk9jYIPMofysq8b55hTo/edit#slide=id.g8c49f94aaf_0_0)|[12.1 - Video](https://zoom.us/rec/share/pKtKOaQ9Fazw3-ZnbCBNYDro6j13UDE4a25pDEfm1mvbbwZiki6Fpi_f79xPJAHG.RkPRc0w7dnioHzzI?startTime=1623883150000)|[12.1 - Summary](https://docs.google.com/document/u/1/d/1gmVqeyw-nu6iN_yXhqg2_ZoAmvpGa3w1/edit?usp=drive_web&ouid=110482795098069878283&rtpof=true)|
+|[12.2 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/12-Web-Scraping-and-Document-Databases/2)|12.2 - Powerpoint|12.2 - Video|[12.2 - Summary](https://docs.google.com/document/u/1/d/1yAA__60j6RcUyZmdcjpkF4blNE7SUbeE/edit?usp=drive_web&ouid=110482795098069878283&rtpof=true)|
+|[12.3 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/12-Web-Scraping-and-Document-Databases/3)|12.3 - Powerpoint|12.3 - Video|[12.3 - Summary](https://docs.google.com/document/u/1/d/1K8VuQckhc0UG5WG94yu_vRu0_mIFxL6v/edit?usp=drive_web&ouid=110482795098069878283&rtpof=true)|
 
 * Helpful Links
 - - -
