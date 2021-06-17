@@ -151,7 +151,7 @@
 |[12.2 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/12-Web-Scraping-and-Document-Databases/2)|[12.2 - Powerpoint](https://docs.google.com/presentation/d/13y-zxFjmDdW8J0FWDn8cbc1AOOS78B-renQpaY58zUg/edit#slide=id.g8ee4498251_0_0)|12.2 - Video|[12.2 - Summary](https://docs.google.com/document/u/1/d/1yAA__60j6RcUyZmdcjpkF4blNE7SUbeE/edit?usp=drive_web&ouid=110482795098069878283&rtpof=true)|
 |[12.3 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/12-Web-Scraping-and-Document-Databases/3)|[12.3 - Powerpoint](https://docs.google.com/presentation/d/1BWKWJoy_Cx2WXCZnBjZKTneoZr2l90MD5DQ8-B5m7NQ/edit#slide=id.g8eebbba49a_0_0)|12.3 - Video|[12.3 - Summary](https://docs.google.com/document/u/1/d/1K8VuQckhc0UG5WG94yu_vRu0_mIFxL6v/edit?usp=drive_web&ouid=110482795098069878283&rtpof=true)|
 
-* Helpful Links
+* [Helpful Links](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/blob/master/01-Lesson-Plans/12-Web-Scraping-and-Document-Databases/StudentGuide.md#helpful-links)
 - - -
 
 ### [Unit 13 - ETL Project Week](01-Lesson-Plans/13-ETL-Project)
