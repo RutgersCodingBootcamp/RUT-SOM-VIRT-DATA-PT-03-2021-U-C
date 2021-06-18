@@ -8,12 +8,6 @@
 * [12.2 Slide Shows](https://docs.google.com/presentation/d/13y-zxFjmDdW8J0FWDn8cbc1AOOS78B-renQpaY58zUg)
 * [12.3 Slide Shows](https://docs.google.com/presentation/d/1BWKWJoy_Cx2WXCZnBjZKTneoZr2l90MD5DQ8-B5m7NQ)
 
-### Lesson Plans
-
-* [12.1 - Lesson Plan](1/LessonPlan.md)
-* [12.2 - Lesson Plan](2/LessonPlan.md)
-* [12.3 - Lesson Plan](3/LessonPlan.md)
-
 ### Homework Activities
 
 * [Homework Instructions](../../02-Homework/12-Web-Scraping-and-Document-Databases/Instructions/README.md)
