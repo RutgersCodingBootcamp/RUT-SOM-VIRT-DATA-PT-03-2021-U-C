@@ -156,9 +156,7 @@
 
 ### [Unit 13 - ETL Project Week](01-Lesson-Plans/13-ETL-Project)
 
-* [13.1 - Lesson Plan](01-Lesson-Plans/13-ETL-Project/1/LessonPlan.md)
-* [13.2 - Lesson Plan](01-Lesson-Plans/13-ETL-Project/1/LessonPlan.md)
-* [13.3 - Lesson Plan](01-Lesson-Plans/13-ETL-Project/1/LessonPlan.md)
+* [13.1 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/13-ETL-Project)
 
 - - -
 
