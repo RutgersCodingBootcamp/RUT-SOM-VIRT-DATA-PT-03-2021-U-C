@@ -48,10 +48,11 @@ When working locally (i.e., on your computer), you will be using git in the comm
   * Be specific.
   * If your commit message needs to be more than 72 characters, do not use the `-m` flag. Just use `git commit` and write a multi-line message in your default editor (most likely VIM). For help using VIM, there are many resources available through googling.
   * Example: `git commit -m "Finish basic bar chart. @TODO: Add styling"`
+* If you have changes on your local feature branch that you DO NOT want to keep, AFTER committing the changes you DO want to keep, stash those changes: `git stash`
 * Pull changes from `main` branch to working feature branch: `git pull origin main`
 * The first time you want to push changes, you first need to set a remote branch to mirror your local branch: `git push --set-upstream origin <branch name>`
 * Push changes from local feature branch to remote feature branch: `git push origin <branch name>`
-* If you have changes on your local feature branch that you DO NOT want to keep, AFTER committing the changes you DO want to keep, stash those changes: `git stash`
+
 
 ### Working Remotely
 
