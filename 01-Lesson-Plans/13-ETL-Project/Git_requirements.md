@@ -1,6 +1,6 @@
 # Github Requirements for ETL project
 - - -
-[Git Workflow found Here](Git_Worklow.md)
+[Git Workflow found Here](Git_Workflow.md)
 
 [Git/GitHub cheatsheet found Here](https://docs.google.com/document/d/1GMaS7oJdBDRas_s_71dlxfDU5o5msns_GLpVHdoipCE/edit?usp=sharing)
 
