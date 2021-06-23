@@ -155,8 +155,13 @@
 - - -
 
 ### [Unit 13 - ETL Project Week](01-Lesson-Plans/13-ETL-Project)
+* [ETL Project requirements](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/blob/master/01-Lesson-Plans/13-ETL-Project/README.md)
+* [Git-Workflow](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/blob/master/01-Lesson-Plans/13-ETL-Project/Git_Workflow.md)
+* [Git-Requirements](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/blob/master/01-Lesson-Plans/13-ETL-Project/Git_requirements.md)
 
-* [13.1 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/13-ETL-Project)
+|Activities|Powerpoint|Video|
+|---|---|---|
+|[13.1 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/13-ETL-Project/1)|[13.1 - Powerpoint]()|[13.1 - Video]()|
 
 - - -
 
