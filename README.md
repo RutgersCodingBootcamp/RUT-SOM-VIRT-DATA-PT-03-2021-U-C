@@ -158,7 +158,7 @@
 * [ETL Project requirements](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/blob/master/01-Lesson-Plans/13-ETL-Project/README.md)
 
 |Activities|Video|
-|---|---|---|
+|---|---|
 |[13.1 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/13-ETL-Project/1)|[13.1 - Video](https://zoom.us/rec/share/w2JkGPmUC9RPPVkAoXPe-lpyCvGZ-eRf5FH3qtViZlwk4-UqepCVL90PhJtbdipd.JFVz_hpxfQyaAjR9?startTime=1624487769000)|
 
 * [Git Desktop Demo](https://zoom.us/rec/share/w2JkGPmUC9RPPVkAoXPe-lpyCvGZ-eRf5FH3qtViZlwk4-UqepCVL90PhJtbdipd.JFVz_hpxfQyaAjR9?startTime=1624486546000)
