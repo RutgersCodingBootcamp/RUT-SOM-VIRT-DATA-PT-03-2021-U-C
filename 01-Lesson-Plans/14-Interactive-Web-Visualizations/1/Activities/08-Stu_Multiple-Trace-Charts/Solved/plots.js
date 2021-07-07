@@ -16,7 +16,7 @@ for (let i = 0; i < searchResults.length; i++) {
 }
 
 // Trace1 for the Greek Data
-let trace1 = {
+let t1 = {
   x: names,
   y: greekSearchResults,
   text: greekNames,
@@ -25,7 +25,7 @@ let trace1 = {
 };
 
 // Trace 2 for the Roman Data
-let trace2 = {
+let t2 = {
   x: names,
   y: romanSearchResults,
   text: romanNames,
@@ -34,7 +34,7 @@ let trace2 = {
 };
 
 // Create data array
-let data = [trace1, trace2];
+let data = [t1, t2];
 
 // Apply a title to the layout
 let layout = {
