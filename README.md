@@ -169,7 +169,7 @@
 |Activities|Powerpoint|Video|Summary
 |---|---|---|---|
 |[14.1 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/14-Interactive-Web-Visualizations/1)|[14.1 - Powerpoint](https://docs.google.com/presentation/d/1gS_8LxLT7dGbWvsPvhehfW9d_FnUkLWh_ccpNW_Mepg/edit)|[14.1 - Video](https://zoom.us/rec/share/FRLHC9RLzHj6MPvrHyN88XbeoMhMcAenE9RFwXwuu_XdLf_x0ivt7ezyhPC5PAXP.yRpFFjxStswyTohn?startTime=1625092469000)|[14.1 - Summary](https://docs.google.com/document/d/1RUi8X4vz6CCVukfXrwaGG1moR0vpq6p_/edit)|
-|[14.2 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/14-Interactive-Web-Visualizations/2)|[14.2 - Powerpoint](https://docs.google.com/presentation/d/11MM6Q4VCS4vrXlysSDpAeCM3taU1bExtvMPmx8p2Rq8/edit)|14.2 - Video|[14.2 - Summary](https://docs.google.com/document/d/1Jcf-qQszuT3zIdasXTgbg15MwL7gtBB-/edit)|
+|[14.2 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/14-Interactive-Web-Visualizations/2)|[14.2 - Powerpoint](https://docs.google.com/presentation/d/11MM6Q4VCS4vrXlysSDpAeCM3taU1bExtvMPmx8p2Rq8/edit)|[14.2 - Video](https://zoom.us/rec/share/33L-F0FDKwl7pcZywZHyDCIyQsXDmXYEcYCpvzvU2YzvwrCK54UrPzkC2KprmO15.SMVSOrIGjiYlWFj7?startTime=1625697081000)|[14.2 - Summary](https://docs.google.com/document/d/1Jcf-qQszuT3zIdasXTgbg15MwL7gtBB-/edit)|
 |[14.3 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/14-Interactive-Web-Visualizations/3)|14.3 - Powerpoint|14.3 - Video|[14.3 - Summary](https://docs.google.com/document/d/1CVH1ZlAgxHFvTfMSdqrw284XNkvXa-UQ/edit)|
 - - -
 
