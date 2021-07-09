@@ -8,15 +8,22 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 ## Step 1: Plotly
 
-1. Use the D3 library to read in `samples.json`.
+1. Populate a dropdown menu with all of the Sample ID's. When an option is selected, this will update all of the charts.
+
+  * **Note:** If you look in your index.html, the event function `optionChanged()` is already included. This function takes the `value` of each dropdown `option`. You need to define this function in your javascript. 
+
 
 2. Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
 
-* Use `sample_values` as the values for the bar chart.
+	* Use `sample_values` as the values for the bar chart.
 
-* Use `otu_ids` as the labels for the bar chart.
+		* **Note:** For each sample, the OTU's are listed in descending order.
+	
+	* Use `otu_ids` as the labels for the bar chart.
 
-* Use `otu_labels` as the hovertext for the chart.
+		* HINT: Labels should be strings, not numbers.
+	
+	* Use `otu_labels` as the hovertext for the chart.
 
   ![bar Chart](Images/hw01.png)
 
@@ -34,15 +41,18 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 ![Bubble Chart](Images/bubble_chart.png)
 
-4. Display the sample metadata, i.e., an individual's demographic information.
+4. Display sample metadata, i.e., an individual's demographic information.
 
-5. Display each key-value pair from the metadata JSON object somewhere on the page.
+	* Display each key-value pair from the metadata JSON object somewhere on the page.
 
 ![hw](Images/hw03.png)
 
-6. Update all of the plots any time that a new sample is selected.
+5. Update all of the plots any time that a new sample is selected.
 
 Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown below:
+
+* **Note** The sample `index.html` was created using an older version of Bootstrap.
+
 
 ![hw](Images/hw02.png)
 
@@ -55,6 +65,8 @@ The following task is advanced and therefore optional.
 * You will need to modify the example gauge code to account for values ranging from 0 through 9.
 
 * Update the chart whenever a new sample is selected.
+
+* **N.B. Your Gauge will NOT look like the example below. Plotly has updated its gauge code.**
 
 ![Weekly Washing Frequency Gauge](Images/gauge.png)
 
@@ -83,3 +95,4 @@ Hulcr, J. et al.(2012) _A Jungle in There: Bacteria in Belly Buttons are Highly 
 - - -
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
