@@ -13,6 +13,8 @@ It is vital that you have all resources ready **before** the start of class on t
 * [06-Python API](#06-python-apis-due-by-532021)
 * [10-Advanced-Data-Storage-and-Retrieval](#10-Advanced-Data-Storage-and-Retrieval-Due-by-652021)
 * [12-Web Scraping and Document Databases](#12-Web-Scraping-and-Document-Databases-Due-by-6162021)
+* [14-Interactive-Web-Visualizations](#14-Interactive-Web-Visualizations-Due-by-7192021)
+* 15-Interactive Visualizations and Dashboards
 
 ## 00-Prework: Due by 3/29/2021
 
