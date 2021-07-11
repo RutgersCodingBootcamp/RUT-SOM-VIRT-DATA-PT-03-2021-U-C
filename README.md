@@ -173,6 +173,7 @@
 |[14.3 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/14-Interactive-Web-Visualizations/3)|[14.3 - Powerpoint](https://docs.google.com/presentation/d/1dOt9k0d3eREq6tQX6anis5B2xcA4qmJVUtrTr1g9eFE/edit)|[14.3 - Video](https://zoom.us/rec/share/XrnC34HsyEVlUoMn5uWyEmLPYpreHXM_HXQ2pkeapKyYUlXoNZF1fruFbEReWMo.s4Vj6aaxRXsJEZV1?startTime=1625925624000)|[14.3 - Summary](https://docs.google.com/document/d/1CVH1ZlAgxHFvTfMSdqrw284XNkvXa-UQ/edit)|
 
 * [Homework Video](https://zoom.us/rec/share/XrnC34HsyEVlUoMn5uWyEmLPYpreHXM_HXQ2pkeapKyYUlXoNZF1fruFbEReWMo.s4Vj6aaxRXsJEZV1?startTime=1625938372000)
+  * [Python http.server](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/02-Homework/14-Interactive-Web-Visualizations#readme)
 - - -
 
 ### [Unit 15 - Interactive Visualizations and Dashboards](01-Lesson-Plans/15-Interactive-Visualizations-and-Dashboards/README.md)
