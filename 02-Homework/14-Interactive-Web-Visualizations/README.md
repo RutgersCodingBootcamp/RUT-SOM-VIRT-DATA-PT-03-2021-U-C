@@ -37,6 +37,6 @@ With D3.json(), you can also read local JSON files instead of using APIs. Howeve
 
   * In `app.js` use the below code to read from the file. D3 sends a request to the route `data/data.json`.
 
-   ```js
-   d3.json("samples.json").then((data) => {....}
-   ```
+      ```js
+      d3.json("samples.json").then((data) => {....}
+      ```
