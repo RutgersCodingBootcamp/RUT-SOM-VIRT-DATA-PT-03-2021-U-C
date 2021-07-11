@@ -165,7 +165,7 @@
 
 - - -
 
-### [Unit 14 - Intro to JavaScript & D3](01-Lesson-Plans/14-Intro-To-JavaScript/README.md)
+### [Unit 14 - Intro to JavaScript & D3](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/14-Interactive-Web-Visualizations)
 |Activities|Powerpoint|Video|Summary
 |---|---|---|---|
 |[14.1 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/14-Interactive-Web-Visualizations/1)|[14.1 - Powerpoint](https://docs.google.com/presentation/d/1gS_8LxLT7dGbWvsPvhehfW9d_FnUkLWh_ccpNW_Mepg/edit)|[14.1 - Video](https://zoom.us/rec/share/FRLHC9RLzHj6MPvrHyN88XbeoMhMcAenE9RFwXwuu_XdLf_x0ivt7ezyhPC5PAXP.yRpFFjxStswyTohn?startTime=1625092469000)|[14.1 - Summary](https://docs.google.com/document/d/1RUi8X4vz6CCVukfXrwaGG1moR0vpq6p_/edit)|
