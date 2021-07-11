@@ -31,7 +31,7 @@ With D3.json(), you can also read local JSON files instead of using APIs. Howeve
 
   * If you are curious about CORS, you can read the [included guide](CORS/CORS.md) for more information.
 
-  * From the homework directory, run `python -m http.server` in your console/terminal. Navigate to `localhost:8000` to show that files are being served from the server, and no CORS error is returned.
+  * From the homework directory, run `python -m http.server` in your CLI. Navigate to `localhost:8000` to show that files are being served from the server, and no CORS error is returned.
 
   * <b>The file`index.html` must be at the directory where `python -m http.server` is run.</b>
 
