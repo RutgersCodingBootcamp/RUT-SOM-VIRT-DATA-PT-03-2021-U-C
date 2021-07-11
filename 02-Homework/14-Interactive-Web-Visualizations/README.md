@@ -2,7 +2,7 @@
 
 <summary><strong>Using Python HTTP Server</strong></summary>
 
-* With D3.json(), we can also read local JSON files instead of using APIs. However, we need to use a web server to make the file available to the webpage. This is a **CORS**, or **Cross-Origin Resource Sharing**, requirement.
+* With D3.json(), you can also read local JSON files instead of using APIs. However, we need to use a web server to make the file available to the webpage. This is a **CORS**, or **Cross-Origin Resource Sharing**, requirement.
 
 *  Servers at a high level:
 
