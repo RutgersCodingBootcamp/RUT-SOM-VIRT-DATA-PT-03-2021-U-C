@@ -92,6 +92,9 @@ It is vital that you have all resources ready **before** the start of class on t
   * `pip install webdriver_manager`
   * `pip install splinter`
   * `pip install html5lib`
+
+## 14-Interactive-Web-Visualizations : Due by 7/19/2021
+ There are no installations necessary for this week, but the following is an OPTIONAL extension to enable in Visual Studio Code. If you need help on how to install extensions, please research this before asking us. Go to the extensions menu in VS Code, and type <b> ritwickdey.liveserver </b>
 - - -
 
 ### Copyright
