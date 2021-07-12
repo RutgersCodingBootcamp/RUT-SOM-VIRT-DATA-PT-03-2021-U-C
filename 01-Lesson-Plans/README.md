@@ -14,7 +14,7 @@ It is vital that you have all resources ready **before** the start of class on t
 * [10-Advanced-Data-Storage-and-Retrieval](#10-Advanced-Data-Storage-and-Retrieval-Due-by-652021)
 * [12-Web Scraping and Document Databases](#12-web-scraping-and-document-databases--due-by-6162021)
 * [14-Interactive-Web-Visualizations](#14-interactive-web-visualizations--due-by-7192021)
-* [15-Mapping-Web](15-Mapping-Web--due-by-7262021)
+* [15-Mapping-Web](#15-mapping-web--due-by-7262021)
 
 ## 00-Prework: Due by 3/29/2021
 
