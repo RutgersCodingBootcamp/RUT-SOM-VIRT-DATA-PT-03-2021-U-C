@@ -99,7 +99,7 @@ It is vital that you have all resources ready **before** the start of class on t
  There are no installations necessary for this week, but the following is an OPTIONAL extension to enable in Visual Studio Code. If you need help on how to install extensions, please research this before asking us. Go to the extensions menu in VS Code, and type <b> ritwickdey.liveserver </b>
  
 ## 15-Mapping-Web : Due by 7/26/2021
-There are no installations required for this week (15-Mapping-Web). But you will need to create free Mapbox account and generate a token to get started.
+There are no installations required for this week.
 - - -
 
 ### Copyright
