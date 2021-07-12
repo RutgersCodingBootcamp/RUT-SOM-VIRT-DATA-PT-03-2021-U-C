@@ -178,11 +178,11 @@
 
 ### [Unit 15 - Interactive Visualizations and Dashboards](01-Lesson-Plans/15-Interactive-Visualizations-and-Dashboards/README.md)
 
-|Activities|Powerpoint|Video|Summary
+|Activities|Powerpoint|Video|
 |---|---|---|---|
-|15.1 - Lesson Plan|15.1 - Powerpoint|15.1 - Video|15.1 - Summary|
-|15.2 - Lesson Plan|15.2 - Powerpoint|15.2 - Video|15.2 - Summary|
-|15.3 - Lesson Plan|15.3 - Powerpoint|15.3 - Video|15.3 - Summary|
+|[15.1 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/15-Mapping-Web/1)|[15.1 - Powerpoint](https://docs.google.com/presentation/d/1wYUkl7CZv-2gijVlszTmkW-s1cyTSikOzMhGx9_-6NI/edit?usp=sharing)|15.1 - Video|
+|[15.2 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/15-Mapping-Web/2)|15.2 - Powerpoint|15.2 - Video|
+|[15.3 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/15-Mapping-Web/1)|15.3 - Powerpoint|15.3 - Video|
 
 - - -
 
