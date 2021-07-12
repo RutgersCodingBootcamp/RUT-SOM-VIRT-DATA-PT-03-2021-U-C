@@ -14,7 +14,7 @@ It is vital that you have all resources ready **before** the start of class on t
 * [10-Advanced-Data-Storage-and-Retrieval](#10-Advanced-Data-Storage-and-Retrieval-Due-by-652021)
 * [12-Web Scraping and Document Databases](#12-web-scraping-and-document-databases--due-by-6162021)
 * [14-Interactive-Web-Visualizations](#14-interactive-web-visualizations--due-by-7192021)
-* 15-Interactive Visualizations and Dashboards
+* [15-Interactive Visualizations and Dashboards](15-Interactive-Visualizations-and-Dashboards--due-by-7262021)
 
 ## 00-Prework: Due by 3/29/2021
 
@@ -97,6 +97,9 @@ It is vital that you have all resources ready **before** the start of class on t
 
 ## 14-Interactive-Web-Visualizations : Due by 7/19/2021
  There are no installations necessary for this week, but the following is an OPTIONAL extension to enable in Visual Studio Code. If you need help on how to install extensions, please research this before asking us. Go to the extensions menu in VS Code, and type <b> ritwickdey.liveserver </b>
+ 
+## 14-Interactive-Web-Visualizations : Due by 7/26/2021
+There are no installations required for this week (15-Mapping-Web). But you will need to create free Mapbox account and generate a token to get started.
 - - -
 
 ### Copyright
