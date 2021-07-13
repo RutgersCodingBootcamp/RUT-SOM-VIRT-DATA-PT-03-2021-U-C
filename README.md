@@ -180,7 +180,7 @@
 
 |Activities|Powerpoint|Video|
 |---|---|---|
-|[15.1 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/15-Mapping-Web/1)|[15.1 - Powerpoint](https://docs.google.com/presentation/d/1wYUkl7CZv-2gijVlszTmkW-s1cyTSikOzMhGx9_-6NI/edit?usp=sharing)|15.1 - Video|
+|[15.1 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/15-Mapping-Web/1)|[15.1 - Powerpoint](https://docs.google.com/presentation/d/1wYUkl7CZv-2gijVlszTmkW-s1cyTSikOzMhGx9_-6NI/edit?usp=sharing)|[15.1 - Video](https://zoom.us/rec/share/4cPPei1USZ5iIH_5BjOZjegYvSqx37Ick-1lZC8LKTi92uSQw9dZJR6HASzz0Naa.LmQPXFC7NT6kJGST?startTime=1626129049000)|
 |[15.2 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/15-Mapping-Web/2)|15.2 - Powerpoint|15.2 - Video|
 |[15.3 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/15-Mapping-Web/1)|15.3 - Powerpoint|15.3 - Video|
 
