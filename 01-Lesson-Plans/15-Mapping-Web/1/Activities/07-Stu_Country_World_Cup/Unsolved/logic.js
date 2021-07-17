@@ -1,17 +1,16 @@
 // Create a map object.
-var myMap = L.map("map", {
+let myMap = L.map("map", {
   center: [15.5994, -28.6731],
   zoom: 3
 });
 
 // Add a tile layer.
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(myMap);
 
 // Country data
-var countries = [
-  {
+let countries = [{
     name: "Brazil",
     location: [-14.2350, -51.9253],
     points: 227
@@ -63,11 +62,32 @@ var countries = [
   }
 ];
 
+// Create function for marker size
+function markerSize(points) {
+  return Math.sqrt(points) * 10000;
+}
+
+// Create function for marker color
+function markerColor(points) {
+  if (points > 200) {
+    return "yellow";
+  } else if (points > 100) {
+    return "blue";
+  } else if (points > 90) {
+    return "green";
+  } else {
+    return "red";
+  }
+}
+
 
 // Loop through the countries array.
 
-  // Conditionals for country points
-
-  // Add circles to the map.
-
-  // Adjust the radius.
+countries.forEach(country => {
+  L.circle(country.location, {
+    fillOpacity: .75,
+    color: "white",
+    fillColor: markerColor(country.points),
+    radius: markerSize(country.points)
+  }).bindPopup(`${country.name}, ${country.points}`).addTo(myMap);
+});

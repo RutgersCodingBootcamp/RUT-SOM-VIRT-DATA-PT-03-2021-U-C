@@ -11,6 +11,9 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 // Define a markerSize() function that will give each city a different radius based on its population.
 
+function markerSize(population) {
+  return Math.sqrt(population)* 50;
+}
 
 // Each city object contains the city's name, location, and population.
 var cities = [
@@ -43,3 +46,6 @@ var cities = [
 
 // Loop through the cities array, and create one marker for each city object.
 
+cities.forEach(city => {
+  L.circle([lat, lng]).bindPopup( `${city.name} <hr> ${city.population}`).addTo(myMap)
+});
