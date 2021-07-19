@@ -199,34 +199,12 @@
 
 - - -
 
-### [Unit 20 - Tableau](01-Lesson-Plans/20-Tableau)
+### [Unit 18 - Tableau](01-Lesson-Plans/18-Tableau)
 
 * [20.1 - Lesson Plan](01-Lesson-Plans/20-Tableau/1/LessonPlan.md)
 * [20.2 - Lesson Plan](01-Lesson-Plans/20-Tableau/2/LessonPlan.md)
 * [20.3 - Lesson Plan](01-Lesson-Plans/20-Tableau/3/LessonPlan.md)
 
-- - -
-
-### [Unit 21 - Machine Learning](01-Lesson-Plans/21-Machine-Learning)
-
-* [21.1 - Lesson Plan](01-Lesson-Plans/21-Machine-Learning/1/LessonPlan.md)
-* [21.2 - Lesson Plan](01-Lesson-Plans/21-Machine-Learning/2/LessonPlan.md)
-* [21.3 - Lesson Plan](01-Lesson-Plans/21-Machine-Learning/3/LessonPlan.md)
-
-- - -
-
-### [Unit 22 - Big-Data](01-Lesson-Plans/22-Big-Data)
-
-* [22.1 - Lesson Plan](01-Lesson-Plans/22-Big-Data/1/LessonPlan.md)
-* [22.2 - Lesson Plan](01-Lesson-Plans/22-Big-Data/2/LessonPlan.md)
-
-- - -
-
-### [Unit 23 - Final Projects Week 1](01-Lesson-Plans/23-Final-Project)
-
-- - -
-
-### [Unit 24 - Final Projects](01-Lesson-Plans/24-Final-Project)
 
 - - -
 
