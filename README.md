@@ -187,30 +187,15 @@
 * [Homework Video](https://zoom.us/rec/share/-3NvUe-1kKSur_qINA2zdxQ8X1lQospAPpTltqD5_0gNTK63evfLg_ERK4Do5F-4.DJ7KR272AWV5Y0OU?startTime=1626545063000)
 - - -
 
-### [Unit 16 - Interactive Web Graphing and Charting with D3.js](01-Lesson-Plans/16-D3)
-
-* [16.1 - Lesson Plan](01-Lesson-Plans/16-D3/1/LessonPlan.md)
-* [16.2 - Lesson Plan](01-Lesson-Plans/16-D3/2/LessonPlan.md)
-* [16.3 - Lesson Plan](01-Lesson-Plans/16-D3/3/LessonPlan.md)
-
-- - -
-
-### [Unit 17 - Interactive Web Map Visualizations (Leaflet.js)](01-Lesson-Plans/17-Mapping-Web)
-
-* [17.1 - Lesson Plan](01-Lesson-Plans/17-Mapping-Web/1/LessonPlan.md)
-* [17.2 - Lesson Plan](01-Lesson-Plans/17-Mapping-Web/2/LessonPlan.md)
-* [17.3 - Lesson Plan](01-Lesson-Plans/17-Mapping-Web/3/LessonPlan.md)
+### [Unit 16 - R & Project 2 Week 1](01-Lesson-Plans/16-R/README.md)
+|Activities|Video|
+|---|---|
+|[16.1 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/16-R/1)|16.1 - Video|
+|16.2 - Lesson Plan|16.2 - Video|
 
 - - -
 
-### [Unit 18 - R & Project 2 Week 1](01-Lesson-Plans/18-R)
-
-* [18.1 - Lesson Plan](01-Lesson-Plans/18-R/1/LessonPlan.md)
-* [18.2 - Lesson Plan](01-Lesson-Plans/18-R/2/LessonPlan.md)
-
-- - -
-
-### [Unit 19 - Project 2 Week 2](01-Lesson-Plans/19-Project-2)
+### [Unit 17 - Project 2 Week 2](01-Lesson-Plans/17-Project-2/README.md)
 
 - - -
 
