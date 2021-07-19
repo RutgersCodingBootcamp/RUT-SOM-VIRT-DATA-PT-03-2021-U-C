@@ -15,6 +15,7 @@ It is vital that you have all resources ready **before** the start of class on t
 * [12-Web Scraping and Document Databases](#12-web-scraping-and-document-databases--due-by-6162021)
 * [14-Interactive-Web-Visualizations](#14-interactive-web-visualizations--due-by-7192021)
 * [15-Mapping-Web](#15-mapping-web--due-by-7262021)
+* [16-Project-3-and-R](#16-project-3-and-r)
 
 ## 00-Prework: Due by 3/29/2021
 
