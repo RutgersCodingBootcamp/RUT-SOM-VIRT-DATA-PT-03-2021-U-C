@@ -100,6 +100,14 @@ It is vital that you have all resources ready **before** the start of class on t
  
 ## 15-Mapping-Web : Due by 7/26/2021
 There are no installations required for this week.
+
+## 16-Project-3-and-R
+* R
+  * [MAC](https://cran.r-project.org/bin/macosx/)
+  * [Windows](https://cran.r-project.org/bin/windows/base/)
+
+* RStudio
+  * [Download here](https://rstudio.com/products/rstudio/download/#download)
 - - -
 
 ### Copyright
