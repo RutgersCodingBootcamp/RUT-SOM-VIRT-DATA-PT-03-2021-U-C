@@ -190,7 +190,7 @@
 ### [Unit 16 - R & Project 2 Week 1](01-Lesson-Plans/16-R/README.md)
 |Activities|Video|Summary
 |---|---|---|
-|[16.1 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/16-R/1)|16.1 - Video|[16.1 - Summary](https://docs.google.com/document/d/1IoJEWyOdSsYXqGxaTu1PNAt-JOApm7rD/edit)
+|[16.1 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/16-R/1)|[16.1 - Video](https://zoom.us/rec/share/ZvyAE7RJA1S121HosKNMx3LW4JDv0Po68BP3GZ08hCTxg0-rxdV_YJbzj-hdL9R-.9jcrHx_YHcYMsl8Y?startTime=1626733871000)|[16.1 - Summary](https://docs.google.com/document/d/1IoJEWyOdSsYXqGxaTu1PNAt-JOApm7rD/edit)
 |16.2 - Lesson Plan|16.2 - Video|[16.2 - Summary](https://docs.google.com/document/d/1rtO0LRVnptlCfvAIF1rRByG3PsInJATK/edit)
 
 * [Project requirements](https://docs.google.com/presentation/d/1Z4IffTcNNXZmBRM7RVbpIPJQDZ_jEc7azn0OFNeYUp8/edit?usp=sharing)
