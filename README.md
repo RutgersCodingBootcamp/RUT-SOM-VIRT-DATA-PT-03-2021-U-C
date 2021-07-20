@@ -193,6 +193,7 @@
 |[16.1 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/16-R/1)|16.1 - Video|
 |16.2 - Lesson Plan|16.2 - Video|
 
+* [Project requirements](https://docs.google.com/presentation/d/1Z4IffTcNNXZmBRM7RVbpIPJQDZ_jEc7azn0OFNeYUp8/edit?usp=sharing)
 - - -
 
 ### [Unit 17 - Project 2 Week 2](01-Lesson-Plans/17-Project-2/README.md)
