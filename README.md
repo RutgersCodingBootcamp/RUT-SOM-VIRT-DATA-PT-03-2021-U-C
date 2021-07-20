@@ -191,7 +191,7 @@
 |Activities|Video|Summary
 |---|---|---|
 |[16.1 - Lesson Plan](https://github.com/RutgersCodingBootcamp/RUT-SOM-VIRT-DATA-PT-03-2021-U-C/tree/master/01-Lesson-Plans/16-R/1)|16.1 - Video|[16.1 - Summary](https://docs.google.com/document/d/1IoJEWyOdSsYXqGxaTu1PNAt-JOApm7rD/edit)
-|16.2 - Lesson Plan|16.2 - Video|[16.2 - Summary](https://docs.google.com/document/d/1rtO0LRVnptlCfvAIF1rRByG3PsInJATK/edit)]
+|16.2 - Lesson Plan|16.2 - Video|[16.2 - Summary](https://docs.google.com/document/d/1rtO0LRVnptlCfvAIF1rRByG3PsInJATK/edit)
 
 * [Project requirements](https://docs.google.com/presentation/d/1Z4IffTcNNXZmBRM7RVbpIPJQDZ_jEc7azn0OFNeYUp8/edit?usp=sharing)
 - - -
